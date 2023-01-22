@@ -1,0 +1,4718 @@
+[
+	{
+		"name": "Whistler Blackcomb",
+		"highest": 675,
+		"lowest": 2284,
+		"diff": 1609
+	},
+	{
+		"name": "Vail",
+		"highest": 2457,
+		"lowest": 3433,
+		"diff": 976
+	},
+	{
+		"name": "Telluride",
+		"highest": 2660,
+		"lowest": 3815,
+		"diff": 1155
+	},
+	{
+		"name": "Beaver Creek",
+		"highest": 2255,
+		"lowest": 3488,
+		"diff": 1233
+	},
+	{
+		"name": "Snowmass",
+		"highest": 2473,
+		"lowest": 3813,
+		"diff": 1340
+	},
+	{
+		"name": "Mammoth Mountain",
+		"highest": 2424,
+		"lowest": 3369,
+		"diff": 945
+	},
+	{
+		"name": "Palisades Tahoe",
+		"highest": 1890,
+		"lowest": 2745,
+		"diff": 855
+	},
+	{
+		"name": "Sun Peaks",
+		"highest": 1198,
+		"lowest": 2082,
+		"diff": 884
+	},
+	{
+		"name": "Breckenridge",
+		"highest": 2926,
+		"lowest": 3914,
+		"diff": 988
+	},
+	{
+		"name": "Tremblant",
+		"highest": 230,
+		"lowest": 875,
+		"diff": 645
+	},
+	{
+		"name": "Lake Louise",
+		"highest": 1646,
+		"lowest": 2637,
+		"diff": 991
+	},
+	{
+		"name": "Keystone",
+		"highest": 2835,
+		"lowest": 3651,
+		"diff": 816
+	},
+	{
+		"name": "Big White",
+		"highest": 1508,
+		"lowest": 2285,
+		"diff": 777
+	},
+	{
+		"name": "Sunday River",
+		"highest": 250,
+		"lowest": 957,
+		"diff": 707
+	},
+	{
+		"name": "Killington",
+		"highest": 355,
+		"lowest": 1293,
+		"diff": 938
+	},
+	{
+		"name": "Mont-Sainte-Anne",
+		"highest": 175,
+		"lowest": 800,
+		"diff": 625
+	},
+	{
+		"name": "Winter Park Resort",
+		"highest": 2743,
+		"lowest": 3676,
+		"diff": 933
+	},
+	{
+		"name": "Silver Star",
+		"highest": 1155,
+		"lowest": 1915,
+		"diff": 760
+	},
+	{
+		"name": "Heavenly",
+		"highest": 2001,
+		"lowest": 3060,
+		"diff": 1059
+	},
+	{
+		"name": "Fernie",
+		"highest": 1052,
+		"lowest": 2134,
+		"diff": 1082
+	},
+	{
+		"name": "Bromont",
+		"highest": 185,
+		"lowest": 553,
+		"diff": 368
+	},
+	{
+		"name": "Stowe",
+		"highest": 390,
+		"lowest": 1116,
+		"diff": 726
+	},
+	{
+		"name": "Sunshine Village",
+		"highest": 1660,
+		"lowest": 2730,
+		"diff": 1070
+	},
+	{
+		"name": "Panorama",
+		"highest": 1150,
+		"lowest": 2450,
+		"diff": 1300
+	},
+	{
+		"name": "Steamboat",
+		"highest": 2103,
+		"lowest": 3221,
+		"diff": 1118
+	},
+	{
+		"name": "Park City",
+		"highest": 2080,
+		"lowest": 3049,
+		"diff": 969
+	},
+	{
+		"name": "Aspen Highlands",
+		"highest": 2451,
+		"lowest": 3559,
+		"diff": 1108
+	},
+	{
+		"name": "Kicking Horse – Golden",
+		"highest": 1190,
+		"lowest": 2450,
+		"diff": 1260
+	},
+	{
+		"name": "Big Sky Resort",
+		"highest": 2072,
+		"lowest": 3398,
+		"diff": 1326
+	},
+	{
+		"name": "Marmot Basin – Jasper",
+		"highest": 1698,
+		"lowest": 2410,
+		"diff": 712
+	},
+	{
+		"name": "Stoneham",
+		"highest": 248,
+		"lowest": 593,
+		"diff": 345
+	},
+	{
+		"name": "Kimberley",
+		"highest": 1230,
+		"lowest": 1982,
+		"diff": 752
+	},
+	{
+		"name": "Copper Mountain",
+		"highest": 2960,
+		"lowest": 3792,
+		"diff": 832
+	},
+	{
+		"name": "Revelstoke Mountain Resort",
+		"highest": 512,
+		"lowest": 2225,
+		"diff": 1713
+	},
+	{
+		"name": "Alpine Meadows",
+		"highest": 2083,
+		"lowest": 2589,
+		"diff": 506
+	},
+	{
+		"name": "Alta",
+		"highest": 2600,
+		"lowest": 3200,
+		"diff": 600
+	},
+	{
+		"name": "Jackson Hole",
+		"highest": 1924,
+		"lowest": 3185,
+		"diff": 1261
+	},
+	{
+		"name": "Buttermilk Mountain",
+		"highest": 2399,
+		"lowest": 3018,
+		"diff": 619
+	},
+	{
+		"name": "Nakiska",
+		"highest": 1525,
+		"lowest": 2260,
+		"diff": 735
+	},
+	{
+		"name": "Deer Valley",
+		"highest": 2003,
+		"lowest": 2917,
+		"diff": 914
+	},
+	{
+		"name": "Crested Butte",
+		"highest": 2774,
+		"lowest": 3620,
+		"diff": 846
+	},
+	{
+		"name": "Powder Mountain",
+		"highest": 2101,
+		"lowest": 2712,
+		"diff": 611
+	},
+	{
+		"name": "Whiteface – Lake Placid",
+		"highest": 371,
+		"lowest": 1340,
+		"diff": 969
+	},
+	{
+		"name": "Sommet Saint-Sauveur",
+		"highest": 416,
+		"lowest": 629,
+		"diff": 213
+	},
+	{
+		"name": "Bald Mountain – Sun Valley",
+		"highest": 1753,
+		"lowest": 2789,
+		"diff": 1036
+	},
+	{
+		"name": "Yellowstone Club",
+		"highest": 2182,
+		"lowest": 3005,
+		"diff": 823
+	},
+	{
+		"name": "Mt. Bachelor",
+		"highest": 1737,
+		"lowest": 2763,
+		"diff": 1026
+	},
+	{
+		"name": "Le Massif de Charlevoix",
+		"highest": 36,
+		"lowest": 806,
+		"diff": 770
+	},
+	{
+		"name": "Castle Mountain",
+		"highest": 1410,
+		"lowest": 2273,
+		"diff": 863
+	},
+	{
+		"name": "Northstar California Resort",
+		"highest": 1929,
+		"lowest": 2624,
+		"diff": 695
+	},
+	{
+		"name": "Snowbird",
+		"highest": 2365,
+		"lowest": 3353,
+		"diff": 988
+	},
+	{
+		"name": "June Mountain",
+		"highest": 2288,
+		"lowest": 3075,
+		"diff": 787
+	},
+	{
+		"name": "Arapahoe Basin",
+		"highest": 3286,
+		"lowest": 3790,
+		"diff": 504
+	},
+	{
+		"name": "Schweitzer Mountain Resort",
+		"highest": 1206,
+		"lowest": 1950,
+		"diff": 744
+	},
+	{
+		"name": "Wenatchee – Mission Ridge",
+		"highest": 1392,
+		"lowest": 2078,
+		"diff": 686
+	},
+	{
+		"name": "Mt. Hood Meadows",
+		"highest": 1378,
+		"lowest": 2225,
+		"diff": 847
+	},
+	{
+		"name": "Stratton",
+		"highest": 600,
+		"lowest": 1181,
+		"diff": 581
+	},
+	{
+		"name": "Red Mountain Resort – Rossland",
+		"highest": 1185,
+		"lowest": 2075,
+		"diff": 890
+	},
+	{
+		"name": "Aspen Mountain",
+		"highest": 2422,
+		"lowest": 3418,
+		"diff": 996
+	},
+	{
+		"name": "Cypress Mountain",
+		"highest": 824,
+		"lowest": 1440,
+		"diff": 616
+	},
+	{
+		"name": "Whitefish Mountain Resort",
+		"highest": 1361,
+		"lowest": 2078,
+		"diff": 717
+	},
+	{
+		"name": "Taos",
+		"highest": 2805,
+		"lowest": 3795,
+		"diff": 990
+	},
+	{
+		"name": "Sierra at Tahoe",
+		"highest": 2024,
+		"lowest": 2698,
+		"diff": 674
+	},
+	{
+		"name": "Homewood Mountain Resort",
+		"highest": 1899,
+		"lowest": 2402,
+		"diff": 503
+	},
+	{
+		"name": "Sugarbush",
+		"highest": 452,
+		"lowest": 1240,
+		"diff": 788
+	},
+	{
+		"name": "Wolf Creek",
+		"highest": 3139,
+		"lowest": 3628,
+		"diff": 489
+	},
+	{
+		"name": "Purgatory – Durango",
+		"highest": 2680,
+		"lowest": 3299,
+		"diff": 619
+	},
+	{
+		"name": "Angel Fire",
+		"highest": 2621,
+		"lowest": 3254,
+		"diff": 633
+	},
+	{
+		"name": "Sugarloaf",
+		"highest": 426,
+		"lowest": 1286,
+		"diff": 860
+	},
+	{
+		"name": "Le Mont Grand-Fonds",
+		"highest": 400,
+		"lowest": 735,
+		"diff": 335
+	},
+	{
+		"name": "Brighton",
+		"highest": 2668,
+		"lowest": 3200,
+		"diff": 532
+	},
+	{
+		"name": "Grouse Mountain",
+		"highest": 850,
+		"lowest": 1250,
+		"diff": 400
+	},
+	{
+		"name": "Okemo",
+		"highest": 348,
+		"lowest": 1019,
+		"diff": 671
+	},
+	{
+		"name": "Mt. Baker",
+		"highest": 1070,
+		"lowest": 1525,
+		"diff": 455
+	},
+	{
+		"name": "Sugar Bowl",
+		"highest": 2098,
+		"lowest": 2555,
+		"diff": 457
+	},
+	{
+		"name": "Bolton Valley",
+		"highest": 441,
+		"lowest": 960,
+		"diff": 519
+	},
+	{
+		"name": "Apex Mountain Resort",
+		"highest": 1575,
+		"lowest": 2180,
+		"diff": 605
+	},
+	{
+		"name": "Mount Snow",
+		"highest": 585,
+		"lowest": 1095,
+		"diff": 510
+	},
+	{
+		"name": "Solitude",
+		"highest": 2434,
+		"lowest": 3000,
+		"diff": 566
+	},
+	{
+		"name": "Jay Peak",
+		"highest": 563,
+		"lowest": 1175,
+		"diff": 612
+	},
+	{
+		"name": "Brian Head",
+		"highest": 2926,
+		"lowest": 3328,
+		"diff": 402
+	},
+	{
+		"name": "Bear Valley",
+		"highest": 2011,
+		"lowest": 2590,
+		"diff": 579
+	},
+	{
+		"name": "Bretton Woods",
+		"highest": 488,
+		"lowest": 945,
+		"diff": 457
+	},
+	{
+		"name": "Mt. Rose",
+		"highest": 2407,
+		"lowest": 2957,
+		"diff": 550
+	},
+	{
+		"name": "Mont Blanc",
+		"highest": 346,
+		"lowest": 556,
+		"diff": 210
+	},
+	{
+		"name": "Smugglers' Notch",
+		"highest": 314,
+		"lowest": 1112,
+		"diff": 798
+	},
+	{
+		"name": "Red Lodge Mountain",
+		"highest": 2138,
+		"lowest": 2870,
+		"diff": 732
+	},
+	{
+		"name": "49 Degrees North Mountain Resort",
+		"highest": 1195,
+		"lowest": 1760,
+		"diff": 565
+	},
+	{
+		"name": "Loon Mountain",
+		"highest": 300,
+		"lowest": 930,
+		"diff": 630
+	},
+	{
+		"name": "Bridger Bowl – Bozeman",
+		"highest": 1860,
+		"lowest": 2682,
+		"diff": 822
+	},
+	{
+		"name": "Bogus Basin",
+		"highest": 1767,
+		"lowest": 2311,
+		"diff": 544
+	},
+	{
+		"name": "Kirkwood",
+		"highest": 2377,
+		"lowest": 2987,
+		"diff": 610
+	},
+	{
+		"name": "Snowbasin",
+		"highest": 1950,
+		"lowest": 2850,
+		"diff": 900
+	},
+	{
+		"name": "Alyeska Resort – Girdwood",
+		"highest": 82,
+		"lowest": 840,
+		"diff": 758
+	},
+	{
+		"name": "Mount Washington",
+		"highest": 1083,
+		"lowest": 1588,
+		"diff": 505
+	},
+	{
+		"name": "Gore Mountain",
+		"highest": 304,
+		"lowest": 1097,
+		"diff": 793
+	},
+	{
+		"name": "Crystal Mountain (WA)",
+		"highest": 1341,
+		"lowest": 2137,
+		"diff": 796
+	},
+	{
+		"name": "Tamarack Resort",
+		"highest": 1490,
+		"lowest": 2347,
+		"diff": 857
+	},
+	{
+		"name": "Apache",
+		"highest": 2926,
+		"lowest": 3475,
+		"diff": 549
+	},
+	{
+		"name": "Timberline",
+		"highest": 1478,
+		"lowest": 2603,
+		"diff": 1125
+	},
+	{
+		"name": "Hunter Mountain",
+		"highest": 487,
+		"lowest": 975,
+		"diff": 488
+	},
+	{
+		"name": "Windham Mountain",
+		"highest": 458,
+		"lowest": 945,
+		"diff": 487
+	},
+	{
+		"name": "Arizona Snowbowl",
+		"highest": 2804,
+		"lowest": 3505,
+		"diff": 701
+	},
+	{
+		"name": "Mt. Norquay – Banff",
+		"highest": 1630,
+		"lowest": 2133,
+		"diff": 503
+	},
+	{
+		"name": "Mt. Hood Skibowl",
+		"highest": 1120,
+		"lowest": 1510,
+		"diff": 390
+	},
+	{
+		"name": "Grand Targhee",
+		"highest": 2310,
+		"lowest": 3048,
+		"diff": 738
+	},
+	{
+		"name": "Holiday Valley",
+		"highest": 457,
+		"lowest": 685,
+		"diff": 228
+	},
+	{
+		"name": "Cannon Mountain",
+		"highest": 599,
+		"lowest": 1243,
+		"diff": 644
+	},
+	{
+		"name": "Stevens Pass",
+		"highest": 1170,
+		"lowest": 1750,
+		"diff": 580
+	},
+	{
+		"name": "Lutsen Mountains",
+		"highest": 263,
+		"lowest": 515,
+		"diff": 252
+	},
+	{
+		"name": "Whitewater – Nelson",
+		"highest": 1380,
+		"lowest": 2003,
+		"diff": 623
+	},
+	{
+		"name": "Bromley Mountain",
+		"highest": 594,
+		"lowest": 1001,
+		"diff": 407
+	},
+	{
+		"name": "Eldora Mountain",
+		"highest": 2804,
+		"lowest": 3292,
+		"diff": 488
+	},
+	{
+		"name": "Loveland",
+		"highest": 3245,
+		"lowest": 3871,
+		"diff": 626
+	},
+	{
+		"name": "Powderhorn",
+		"highest": 2499,
+		"lowest": 3000,
+		"diff": 501
+	},
+	{
+		"name": "Sundance",
+		"highest": 1850,
+		"lowest": 2515,
+		"diff": 665
+	},
+	{
+		"name": "Pico Mountain",
+		"highest": 610,
+		"lowest": 1209,
+		"diff": 599
+	},
+	{
+		"name": "White Pass",
+		"highest": 1371,
+		"lowest": 1986,
+		"diff": 615
+	},
+	{
+		"name": "Lost Trail Powder Mountain",
+		"highest": 1960,
+		"lowest": 2550,
+		"diff": 590
+	},
+	{
+		"name": "Mad River Glen",
+		"highest": 487,
+		"lowest": 1108,
+		"diff": 621
+	},
+	{
+		"name": "Discovery Ski Area",
+		"highest": 1758,
+		"lowest": 2484,
+		"diff": 726
+	},
+	{
+		"name": "Donner Ski Ranch",
+		"highest": 2142,
+		"lowest": 2371,
+		"diff": 229
+	},
+	{
+		"name": "Gunstock",
+		"highest": 264,
+		"lowest": 690,
+		"diff": 426
+	},
+	{
+		"name": "China Peak",
+		"highest": 2147,
+		"lowest": 2630,
+		"diff": 483
+	},
+	{
+		"name": "Attitash Mountain Resort",
+		"highest": 183,
+		"lowest": 716,
+		"diff": 533
+	},
+	{
+		"name": "Mont Orford",
+		"highest": 261,
+		"lowest": 850,
+		"diff": 589
+	},
+	{
+		"name": "Great Divide",
+		"highest": 1752,
+		"lowest": 2210,
+		"diff": 458
+	},
+	{
+		"name": "Dodge Ridge",
+		"highest": 2011,
+		"lowest": 2499,
+		"diff": 488
+	},
+	{
+		"name": "Cranmore Mountain Resort",
+		"highest": 267,
+		"lowest": 609,
+		"diff": 342
+	},
+	{
+		"name": "Canada Olympic Park – Calgary",
+		"highest": 1130,
+		"lowest": 1250,
+		"diff": 120
+	},
+	{
+		"name": "Blue Mountain Resort – Collingwood",
+		"highest": 230,
+		"lowest": 450,
+		"diff": 220
+	},
+	{
+		"name": "Mt. Sunapee",
+		"highest": 385,
+		"lowest": 828,
+		"diff": 443
+	},
+	{
+		"name": "Silver Mountain",
+		"highest": 1250,
+		"lowest": 1920,
+		"diff": 670
+	},
+	{
+		"name": "Lookout Pass",
+		"highest": 1372,
+		"lowest": 1875,
+		"diff": 503
+	},
+	{
+		"name": "Brundage Mountain",
+		"highest": 1780,
+		"lowest": 2328,
+		"diff": 548
+	},
+	{
+		"name": "Baldy Mountain Resort",
+		"highest": 1726,
+		"lowest": 2303,
+		"diff": 577
+	},
+	{
+		"name": "Bear Mountain – Big Bear Lake",
+		"highest": 2176,
+		"lowest": 2684,
+		"diff": 508
+	},
+	{
+		"name": "Owl's Head",
+		"highest": 213,
+		"lowest": 753,
+		"diff": 540
+	},
+	{
+		"name": "Waterville Valley",
+		"highest": 605,
+		"lowest": 1220,
+		"diff": 615
+	},
+	{
+		"name": "Camelback",
+		"highest": 380,
+		"lowest": 623,
+		"diff": 243
+	},
+	{
+		"name": "Snowshoe Mountain",
+		"highest": 1000,
+		"lowest": 1478,
+		"diff": 478
+	},
+	{
+		"name": "Ragged Mountain",
+		"highest": 340,
+		"lowest": 680,
+		"diff": 340
+	},
+	{
+		"name": "Terry Peak",
+		"highest": 1800,
+		"lowest": 2130,
+		"diff": 330
+	},
+	{
+		"name": "Blue Mountain",
+		"highest": 140,
+		"lowest": 470,
+		"diff": 330
+	},
+	{
+		"name": "Santa Fé",
+		"highest": 3154,
+		"lowest": 3679,
+		"diff": 525
+	},
+	{
+		"name": "Granite Peak at Rib Mountain State Park",
+		"highest": 380,
+		"lowest": 594,
+		"diff": 214
+	},
+	{
+		"name": "Snow Valley",
+		"highest": 2050,
+		"lowest": 2390,
+		"diff": 340
+	},
+	{
+		"name": "Beaver Mountain",
+		"highest": 2195,
+		"lowest": 2700,
+		"diff": 505
+	},
+	{
+		"name": "Wildcat Mountain",
+		"highest": 594,
+		"lowest": 1238,
+		"diff": 644
+	},
+	{
+		"name": "Saddleback",
+		"highest": 646,
+		"lowest": 1220,
+		"diff": 574
+	},
+	{
+		"name": "Snow Summit – Big Bear Lake",
+		"highest": 2130,
+		"lowest": 2500,
+		"diff": 370
+	},
+	{
+		"name": "Willamette Pass – Crescent",
+		"highest": 1560,
+		"lowest": 2036,
+		"diff": 476
+	},
+	{
+		"name": "Craigleith Ski Club",
+		"highest": 235,
+		"lowest": 446,
+		"diff": 211
+	},
+	{
+		"name": "Montana Snowbowl",
+		"highest": 1523,
+		"lowest": 2316,
+		"diff": 793
+	},
+	{
+		"name": "Timberline Mountain",
+		"highest": 996,
+		"lowest": 1301,
+		"diff": 305
+	},
+	{
+		"name": "Valinouët",
+		"highest": 460,
+		"lowest": 810,
+		"diff": 350
+	},
+	{
+		"name": "Osler Bluff Ski Club",
+		"highest": 291,
+		"lowest": 517,
+		"diff": 226
+	},
+	{
+		"name": "Mount St. Louis – Moonstone",
+		"highest": 228,
+		"lowest": 382,
+		"diff": 154
+	},
+	{
+		"name": "Le Relais – Lac Beauport",
+		"highest": 224,
+		"lowest": 429,
+		"diff": 205
+	},
+	{
+		"name": "Mount Seymour",
+		"highest": 935,
+		"lowest": 1265,
+		"diff": 330
+	},
+	{
+		"name": "Mountain Creek – Vernon",
+		"highest": 134,
+		"lowest": 451,
+		"diff": 317
+	},
+	{
+		"name": "Hudson Bay Mountain – Smithers",
+		"highest": 1142,
+		"lowest": 1650,
+		"diff": 508
+	},
+	{
+		"name": "Haystack Mountain – The Hermitage Club",
+		"highest": 550,
+		"lowest": 975,
+		"diff": 425
+	},
+	{
+		"name": "Mont Edouard – L'Anse-Saint-Jean",
+		"highest": 183,
+		"lowest": 633,
+		"diff": 450
+	},
+	{
+		"name": "Monarch",
+		"highest": 3290,
+		"lowest": 3630,
+		"diff": 340
+	},
+	{
+		"name": "Bristol Mountain",
+		"highest": 304,
+		"lowest": 670,
+		"diff": 366
+	},
+	{
+		"name": "The Summit at Snoqualmie",
+		"highest": 800,
+		"lowest": 1180,
+		"diff": 380
+	},
+	{
+		"name": "Mt. Spokane",
+		"highest": 1185,
+		"lowest": 1795,
+		"diff": 610
+	},
+	{
+		"name": "Pats Peak",
+		"highest": 180,
+		"lowest": 426,
+		"diff": 246
+	},
+	{
+		"name": "Marble Mountain – Steady Brook (Humber Valley)",
+		"highest": 27,
+		"lowest": 546,
+		"diff": 519
+	},
+	{
+		"name": "Mont Orignal – Lac Etchemin",
+		"highest": 316,
+		"lowest": 612,
+		"diff": 296
+	},
+	{
+		"name": "Wachusett Mountain",
+		"highest": 306,
+		"lowest": 611,
+		"diff": 305
+	},
+	{
+		"name": "Sugar Mountain",
+		"highest": 1249,
+		"lowest": 1589,
+		"diff": 340
+	},
+	{
+		"name": "The Highlands at Harbor Springs",
+		"highest": 240,
+		"lowest": 408,
+		"diff": 168
+	},
+	{
+		"name": "Granby Ranch",
+		"highest": 2499,
+		"lowest": 2804,
+		"diff": 305
+	},
+	{
+		"name": "Sandia Peak",
+		"highest": 2630,
+		"lowest": 3140,
+		"diff": 510
+	},
+	{
+		"name": "Magic Mountain",
+		"highest": 350,
+		"lowest": 868,
+		"diff": 518
+	},
+	{
+		"name": "Titus Mountain",
+		"highest": 251,
+		"lowest": 617,
+		"diff": 366
+	},
+	{
+		"name": "Diamond Peak",
+		"highest": 2042,
+		"lowest": 2602,
+		"diff": 560
+	},
+	{
+		"name": "Pajarito Mountain",
+		"highest": 2743,
+		"lowest": 3182,
+		"diff": 439
+	},
+	{
+		"name": "Mt. Shasta Ski Park",
+		"highest": 1670,
+		"lowest": 2285,
+		"diff": 615
+	},
+	{
+		"name": "Alpine Ski Club – Collingwood",
+		"highest": 230,
+		"lowest": 450,
+		"diff": 220
+	},
+	{
+		"name": "Belleayre Mountain",
+		"highest": 617,
+		"lowest": 1045,
+		"diff": 428
+	},
+	{
+		"name": "Fortress Mountain",
+		"highest": 2040,
+		"lowest": 2370,
+		"diff": 330
+	},
+	{
+		"name": "Soldier Mountain",
+		"highest": 1770,
+		"lowest": 2188,
+		"diff": 418
+	},
+	{
+		"name": "Maverick Mountain",
+		"highest": 1980,
+		"lowest": 2596,
+		"diff": 616
+	},
+	{
+		"name": "Boreal",
+		"highest": 2195,
+		"lowest": 2357,
+		"diff": 162
+	},
+	{
+		"name": "Mountain High East",
+		"highest": 2010,
+		"lowest": 2496,
+		"diff": 486
+	},
+	{
+		"name": "Mont Sutton",
+		"highest": 400,
+		"lowest": 840,
+		"diff": 440
+	},
+	{
+		"name": "Shames Mountain",
+		"highest": 700,
+		"lowest": 1189,
+		"diff": 489
+	},
+	{
+		"name": "Cooper",
+		"highest": 3200,
+		"lowest": 3566,
+		"diff": 366
+	},
+	{
+		"name": "Val Saint-Côme",
+		"highest": 300,
+		"lowest": 600,
+		"diff": 300
+	},
+	{
+		"name": "Manning Park",
+		"highest": 1353,
+		"lowest": 1790,
+		"diff": 437
+	},
+	{
+		"name": "Butternut",
+		"highest": 250,
+		"lowest": 540,
+		"diff": 290
+	},
+	{
+		"name": "Sunlight Mountain",
+		"highest": 2403,
+		"lowest": 3015,
+		"diff": 612
+	},
+	{
+		"name": "Powder King",
+		"highest": 940,
+		"lowest": 1520,
+		"diff": 580
+	},
+	{
+		"name": "Mt. Baldy",
+		"highest": 1977,
+		"lowest": 2620,
+		"diff": 643
+	},
+	{
+		"name": "Pebble Creek",
+		"highest": 1938,
+		"lowest": 2609,
+		"diff": 671
+	},
+	{
+		"name": "Holimont",
+		"highest": 475,
+		"lowest": 689,
+		"diff": 214
+	},
+	{
+		"name": "Camp Fortune",
+		"highest": 109,
+		"lowest": 276,
+		"diff": 167
+	},
+	{
+		"name": "Mont Avila",
+		"highest": 187,
+		"lowest": 416,
+		"diff": 229
+	},
+	{
+		"name": "Purden",
+		"highest": 976,
+		"lowest": 1311,
+		"diff": 335
+	},
+	{
+		"name": "Pleasant Mountain",
+		"highest": 160,
+		"lowest": 550,
+		"diff": 390
+	},
+	{
+		"name": "Crystal Mountain – Westbank",
+		"highest": 1228,
+		"lowest": 1440,
+		"diff": 212
+	},
+	{
+		"name": "Mont Ste-Marie",
+		"highest": 200,
+		"lowest": 580,
+		"diff": 380
+	},
+	{
+		"name": "Cascade Mountain",
+		"highest": 250,
+		"lowest": 378,
+		"diff": 128
+	},
+	{
+		"name": "Seven Springs",
+		"highest": 690,
+		"lowest": 915,
+		"diff": 225
+	},
+	{
+		"name": "Burke Mountain",
+		"highest": 371,
+		"lowest": 975,
+		"diff": 604
+	},
+	{
+		"name": "Cherry Peak",
+		"highest": 2250,
+		"lowest": 2635,
+		"diff": 385
+	},
+	{
+		"name": "Showdown",
+		"highest": 2090,
+		"lowest": 2500,
+		"diff": 410
+	},
+	{
+		"name": "Massif du Sud",
+		"highest": 515,
+		"lowest": 915,
+		"diff": 400
+	},
+	{
+		"name": "Red River",
+		"highest": 2640,
+		"lowest": 3135,
+		"diff": 495
+	},
+	{
+		"name": "Arctic Valley",
+		"highest": 762,
+		"lowest": 1188,
+		"diff": 426
+	},
+	{
+		"name": "Eagle Point",
+		"highest": 2773,
+		"lowest": 3230,
+		"diff": 457
+	},
+	{
+		"name": "Nordic Valley",
+		"highest": 1632,
+		"lowest": 2153,
+		"diff": 521
+	},
+	{
+		"name": "Mont Cascades",
+		"highest": 147,
+		"lowest": 294,
+		"diff": 147
+	},
+	{
+		"name": "Spirit Mountain",
+		"highest": 210,
+		"lowest": 390,
+		"diff": 180
+	},
+	{
+		"name": "Greek Peak",
+		"highest": 350,
+		"lowest": 640,
+		"diff": 290
+	},
+	{
+		"name": "Bigrock Mountain",
+		"highest": 200,
+		"lowest": 498,
+		"diff": 298
+	},
+	{
+		"name": "Mount Timothy",
+		"highest": 1350,
+		"lowest": 1660,
+		"diff": 310
+	},
+	{
+		"name": "Wintergreen Resort",
+		"highest": 766,
+		"lowest": 1071,
+		"diff": 305
+	},
+	{
+		"name": "Shawnee Mountain",
+		"highest": 145,
+		"lowest": 350,
+		"diff": 205
+	},
+	{
+		"name": "Mountain High West",
+		"highest": 2110,
+		"lowest": 2410,
+		"diff": 300
+	},
+	{
+		"name": "Boyne Mountain",
+		"highest": 189,
+		"lowest": 341,
+		"diff": 152
+	},
+	{
+		"name": "Antelope Butte",
+		"highest": 2560,
+		"lowest": 2865,
+		"diff": 305
+	},
+	{
+		"name": "Mont Lac-Vert – Hébertville",
+		"highest": 160,
+		"lowest": 400,
+		"diff": 240
+	},
+	{
+		"name": "Belle Neige",
+		"highest": 305,
+		"lowest": 462,
+		"diff": 157
+	},
+	{
+		"name": "Harper Mountain",
+		"highest": 1095,
+		"lowest": 1520,
+		"diff": 425
+	},
+	{
+		"name": "Wisp – McHenry (Deep Creek Lake)",
+		"highest": 736,
+		"lowest": 950,
+		"diff": 214
+	},
+	{
+		"name": "Pine Creek",
+		"highest": 2095,
+		"lowest": 2508,
+		"diff": 413
+	},
+	{
+		"name": "Kissing Bridge",
+		"highest": 378,
+		"lowest": 520,
+		"diff": 142
+	},
+	{
+		"name": "Dartmouth Skiway",
+		"highest": 297,
+		"lowest": 592,
+		"diff": 295
+	},
+	{
+		"name": "Sommet Olympia",
+		"highest": 240,
+		"lowest": 440,
+		"diff": 200
+	},
+	{
+		"name": "Cape Smokey",
+		"highest": 15,
+		"lowest": 320,
+		"diff": 305
+	},
+	{
+		"name": "Blue Knob",
+		"highest": 634,
+		"lowest": 960,
+		"diff": 326
+	},
+	{
+		"name": "Snowy Range",
+		"highest": 2678,
+		"lowest": 2945,
+		"diff": 267
+	},
+	{
+		"name": "Turner Mountain",
+		"highest": 1171,
+		"lowest": 1814,
+		"diff": 643
+	},
+	{
+		"name": "Hoodoo Ski Area",
+		"highest": 1430,
+		"lowest": 1740,
+		"diff": 310
+	},
+	{
+		"name": "Blacktail Mountain",
+		"highest": 1627,
+		"lowest": 2066,
+		"diff": 439
+	},
+	{
+		"name": "Eaglecrest – Juneau",
+		"highest": 350,
+		"lowest": 820,
+		"diff": 470
+	},
+	{
+		"name": "Alpental",
+		"highest": 962,
+		"lowest": 1670,
+		"diff": 708
+	},
+	{
+		"name": "Snow King Mountain – Jackson",
+		"highest": 1900,
+		"lowest": 2380,
+		"diff": 480
+	},
+	{
+		"name": "Skiland – Mt. Aurora",
+		"highest": 425,
+		"lowest": 745,
+		"diff": 320
+	},
+	{
+		"name": "Labrador Mountain",
+		"highest": 360,
+		"lowest": 570,
+		"diff": 210
+	},
+	{
+		"name": "Nub's Nob Ski Area",
+		"highest": 280,
+		"lowest": 403,
+		"diff": 123
+	},
+	{
+		"name": "Giants Ridge",
+		"highest": 440,
+		"lowest": 560,
+		"diff": 120
+	},
+	{
+		"name": "Mont Béchervaise",
+		"highest": 100,
+		"lowest": 344,
+		"diff": 244
+	},
+	{
+		"name": "Pomerelle",
+		"highest": 2358,
+		"lowest": 2640,
+		"diff": 282
+	},
+	{
+		"name": "Middlebury College Snow Bowl",
+		"highest": 555,
+		"lowest": 810,
+		"diff": 255
+	},
+	{
+		"name": "Smokey Mountain",
+		"highest": 595,
+		"lowest": 845,
+		"diff": 250
+	},
+	{
+		"name": "Sipapu",
+		"highest": 2500,
+		"lowest": 2825,
+		"diff": 325
+	},
+	{
+		"name": "Whitecap Mountains",
+		"highest": 441,
+		"lowest": 539,
+		"diff": 98
+	},
+	{
+		"name": "Tabor Mountain",
+		"highest": 785,
+		"lowest": 1040,
+		"diff": 255
+	},
+	{
+		"name": "Morin Heights",
+		"highest": 245,
+		"lowest": 465,
+		"diff": 220
+	},
+	{
+		"name": "Sleeping Giant",
+		"highest": 2025,
+		"lowest": 2265,
+		"diff": 240
+	},
+	{
+		"name": "Beech Mountain",
+		"highest": 1424,
+		"lowest": 1678,
+		"diff": 254
+	},
+	{
+		"name": "Sommet Edelweiss",
+		"highest": 150,
+		"lowest": 350,
+		"diff": 200
+	},
+	{
+		"name": "Elk Mountain",
+		"highest": 520,
+		"lowest": 820,
+		"diff": 300
+	},
+	{
+		"name": "Catamount",
+		"highest": 280,
+		"lowest": 580,
+		"diff": 300
+	},
+	{
+		"name": "Berkshire East",
+		"highest": 201,
+		"lowest": 561,
+		"diff": 360
+	},
+	{
+		"name": "Poley Mountain",
+		"highest": 76,
+		"lowest": 277,
+		"diff": 201
+	},
+	{
+		"name": "Beaver Valley Ski Club",
+		"highest": 255,
+		"lowest": 410,
+		"diff": 155
+	},
+	{
+		"name": "Georgian Peaks Club",
+		"highest": 181,
+		"lowest": 430,
+		"diff": 249
+	},
+	{
+		"name": "Mont Comi",
+		"highest": 269,
+		"lowest": 575,
+		"diff": 306
+	},
+	{
+		"name": "Whitetail",
+		"highest": 261,
+		"lowest": 545,
+		"diff": 284
+	},
+	{
+		"name": "Crabbe Mountain",
+		"highest": 150,
+		"lowest": 370,
+		"diff": 220
+	},
+	{
+		"name": "Tenney Mountain",
+		"highest": 228,
+		"lowest": 655,
+		"diff": 427
+	},
+	{
+		"name": "Black Mountain – Rumford",
+		"highest": 305,
+		"lowest": 640,
+		"diff": 335
+	},
+	{
+		"name": "Plattekill",
+		"highest": 696,
+		"lowest": 1014,
+		"diff": 318
+	},
+	{
+		"name": "Mt. Ashland",
+		"highest": 1932,
+		"lowest": 2286,
+		"diff": 354
+	},
+	{
+		"name": "Song Mountain",
+		"highest": 400,
+		"lowest": 585,
+		"diff": 185
+	},
+	{
+		"name": "Shanty Creek Resorts – Schuss Mountain",
+		"highest": 250,
+		"lowest": 356,
+		"diff": 106
+	},
+	{
+		"name": "The Balsams",
+		"highest": 541,
+		"lowest": 838,
+		"diff": 297
+	},
+	{
+		"name": "Antoine Mountain",
+		"highest": 174,
+		"lowest": 366,
+		"diff": 192
+	},
+	{
+		"name": "Jiminy Peak",
+		"highest": 380,
+		"lowest": 724,
+		"diff": 344
+	},
+	{
+		"name": "Kelly Canyon",
+		"highest": 1780,
+		"lowest": 2030,
+		"diff": 250
+	},
+	{
+		"name": "Murray Ridge",
+		"highest": 895,
+		"lowest": 1405,
+		"diff": 510
+	},
+	{
+		"name": "Dollar Mountain – Sun Valley",
+		"highest": 1832,
+		"lowest": 2023,
+		"diff": 191
+	},
+	{
+		"name": "Loup Loup Ski Bowl",
+		"highest": 1240,
+		"lowest": 1620,
+		"diff": 380
+	},
+	{
+		"name": "Bluewood",
+		"highest": 1385,
+		"lowest": 1728,
+		"diff": 343
+	},
+	{
+		"name": "Crotched Mountain",
+		"highest": 362,
+		"lowest": 630,
+		"diff": 268
+	},
+	{
+		"name": "Teton Pass",
+		"highest": 1886,
+		"lowest": 2194,
+		"diff": 308
+	},
+	{
+		"name": "Caberfae Peaks",
+		"highest": 357,
+		"lowest": 467,
+		"diff": 110
+	},
+	{
+		"name": "Mt. Kato",
+		"highest": 241,
+		"lowest": 313,
+		"diff": 72
+	},
+	{
+		"name": "Val d'Irène",
+		"highest": 426,
+		"lowest": 700,
+		"diff": 274
+	},
+	{
+		"name": "Mont La Réserve – Saint-Donat-de-Montcalm",
+		"highest": 440,
+		"lowest": 680,
+		"diff": 240
+	},
+	{
+		"name": "White Pine – Pinedale",
+		"highest": 2591,
+		"lowest": 2896,
+		"diff": 305
+	},
+	{
+		"name": "Deer Mountain",
+		"highest": 1841,
+		"lowest": 2028,
+		"diff": 187
+	},
+	{
+		"name": "Mt. Bohemia",
+		"highest": 190,
+		"lowest": 445,
+		"diff": 255
+	},
+	{
+		"name": "Pin Rouge",
+		"highest": 50,
+		"lowest": 500,
+		"diff": 450
+	},
+	{
+		"name": "Asessippi",
+		"highest": 400,
+		"lowest": 552,
+		"diff": 152
+	},
+	{
+		"name": "Ben Eoin",
+		"highest": 14,
+		"lowest": 154,
+		"diff": 140
+	},
+	{
+		"name": "Mont Garceau",
+		"highest": 412,
+		"lowest": 717,
+		"diff": 305
+	},
+	{
+		"name": "Bear Creek Mountain Resort",
+		"highest": 180,
+		"lowest": 335,
+		"diff": 155
+	},
+	{
+		"name": "Black Mountain – Jackson",
+		"highest": 376,
+		"lowest": 685,
+		"diff": 309
+	},
+	{
+		"name": "Devil's Glen",
+		"highest": 372,
+		"lowest": 522,
+		"diff": 150
+	},
+	{
+		"name": "Devil's Head",
+		"highest": 150,
+		"lowest": 303,
+		"diff": 153
+	},
+	{
+		"name": "Tahoe Donner",
+		"highest": 2057,
+		"lowest": 2240,
+		"diff": 183
+	},
+	{
+		"name": "Le Chantecler",
+		"highest": 275,
+		"lowest": 459,
+		"diff": 184
+	},
+	{
+		"name": "Bittersweet",
+		"highest": 218,
+		"lowest": 324,
+		"diff": 106
+	},
+	{
+		"name": "Whaleback",
+		"highest": 347,
+		"lowest": 543,
+		"diff": 196
+	},
+	{
+		"name": "Big Powderhorn Mountain",
+		"highest": 350,
+		"lowest": 540,
+		"diff": 190
+	},
+	{
+		"name": "Swain",
+		"highest": 400,
+		"lowest": 600,
+		"diff": 200
+	},
+	{
+		"name": "Saskadena Six",
+		"highest": 220,
+		"lowest": 411,
+		"diff": 191
+	},
+	{
+		"name": "Canaan Valley",
+		"highest": 1045,
+		"lowest": 1304,
+		"diff": 259
+	},
+	{
+		"name": "Vallée Bleue",
+		"highest": 321,
+		"lowest": 432,
+		"diff": 111
+	},
+	{
+		"name": "Meadowlark Ski Lodge",
+		"highest": 2585,
+		"lowest": 2828,
+		"diff": 243
+	},
+	{
+		"name": "Cloudcroft",
+		"highest": 2560,
+		"lowest": 2773,
+		"diff": 213
+	},
+	{
+		"name": "Jack Frost Mountain",
+		"highest": 427,
+		"lowest": 610,
+		"diff": 183
+	},
+	{
+		"name": "Magic Mountain Resort",
+		"highest": 1981,
+		"lowest": 2207,
+		"diff": 226
+	},
+	{
+		"name": "Hidden Valley (PA)",
+		"highest": 730,
+		"lowest": 890,
+		"diff": 160
+	},
+	{
+		"name": "Mont Rigaud",
+		"highest": 54,
+		"lowest": 174,
+		"diff": 120
+	},
+	{
+		"name": "Soda Springs",
+		"highest": 2060,
+		"lowest": 2232,
+		"diff": 172
+	},
+	{
+		"name": "Mt. Waterman",
+		"highest": 2120,
+		"lowest": 2440,
+		"diff": 320
+	},
+	{
+		"name": "Searchmont",
+		"highest": 274,
+		"lowest": 488,
+		"diff": 214
+	},
+	{
+		"name": "Canyon Ski Area",
+		"highest": 753,
+		"lowest": 899,
+		"diff": 146
+	},
+	{
+		"name": "Warner Canyon – Lakeview",
+		"highest": 1737,
+		"lowest": 1975,
+		"diff": 238
+	},
+	{
+		"name": "West Mountain",
+		"highest": 137,
+		"lowest": 435,
+		"diff": 298
+	},
+	{
+		"name": "Marquette Mountain",
+		"highest": 240,
+		"lowest": 390,
+		"diff": 150
+	},
+	{
+		"name": "Oak Mountain",
+		"highest": 550,
+		"lowest": 740,
+		"diff": 190
+	},
+	{
+		"name": "Montage Mountain Resort",
+		"highest": 285,
+		"lowest": 594,
+		"diff": 309
+	},
+	{
+		"name": "Liberty Mountain",
+		"highest": 180,
+		"lowest": 355,
+		"diff": 175
+	},
+	{
+		"name": "Sasquatch Mountain – Hemlock Valley",
+		"highest": 975,
+		"lowest": 1372,
+		"diff": 397
+	},
+	{
+		"name": "Cooper Spur",
+		"highest": 1219,
+		"lowest": 1325,
+		"diff": 106
+	},
+	{
+		"name": "Spout Springs",
+		"highest": 1500,
+		"lowest": 1670,
+		"diff": 170
+	},
+	{
+		"name": "Mont Adstock",
+		"highest": 377,
+		"lowest": 650,
+		"diff": 273
+	},
+	{
+		"name": "Pine Mountain",
+		"highest": 350,
+		"lowest": 461,
+		"diff": 111
+	},
+	{
+		"name": "Anthony Lakes Mountain Resort",
+		"highest": 2164,
+		"lowest": 2438,
+		"diff": 274
+	},
+	{
+		"name": "Mont Farlagne",
+		"highest": 150,
+		"lowest": 338,
+		"diff": 188
+	},
+	{
+		"name": "Bear Paw Ski Bowl",
+		"highest": 1280,
+		"lowest": 1609,
+		"diff": 329
+	},
+	{
+		"name": "Peek'n Peak",
+		"highest": 430,
+		"lowest": 535,
+		"diff": 105
+	},
+	{
+		"name": "Winterplace",
+		"highest": 913,
+		"lowest": 1097,
+		"diff": 184
+	},
+	{
+		"name": "Sugarloaf Provincial Park",
+		"highest": 42,
+		"lowest": 197,
+		"diff": 155
+	},
+	{
+		"name": "Mont Saint-Bruno – Saint-Bruno-de-Montarville",
+		"highest": 41,
+		"lowest": 175,
+		"diff": 134
+	},
+	{
+		"name": "Troll Resort – Quesnel",
+		"highest": 1015,
+		"lowest": 1520,
+		"diff": 505
+	},
+	{
+		"name": "Buffalo",
+		"highest": 307,
+		"lowest": 452,
+		"diff": 145
+	},
+	{
+		"name": "Loch Lomond",
+		"highest": 251,
+		"lowest": 430,
+		"diff": 179
+	},
+	{
+		"name": "Badger Pass",
+		"highest": 2195,
+		"lowest": 2440,
+		"diff": 245
+	},
+	{
+		"name": "Big Squaw",
+		"highest": 404,
+		"lowest": 890,
+		"diff": 486
+	},
+	{
+		"name": "Alpine Mountain Ski &amp; Snow Tubing Center",
+		"highest": 198,
+		"lowest": 351,
+		"diff": 153
+	},
+	{
+		"name": "Jackson Creek Summit (Snowriver Mountain Resort)",
+		"highest": 395,
+		"lowest": 590,
+		"diff": 195
+	},
+	{
+		"name": "Mohawk Mountain",
+		"highest": 280,
+		"lowest": 454,
+		"diff": 174
+	},
+	{
+		"name": "Big Bear at Masthope Mountain",
+		"highest": 250,
+		"lowest": 450,
+		"diff": 200
+	},
+	{
+		"name": "Black River Basin (Snowriver Mountain Resort)",
+		"highest": 361,
+		"lowest": 510,
+		"diff": 149
+	},
+	{
+		"name": "Otsego – Gaylord",
+		"highest": 331,
+		"lowest": 422,
+		"diff": 91
+	},
+	{
+		"name": "Royal Mountain",
+		"highest": 375,
+		"lowest": 533,
+		"diff": 158
+	},
+	{
+		"name": "Bousquet",
+		"highest": 338,
+		"lowest": 566,
+		"diff": 228
+	},
+	{
+		"name": "Mont Gleason",
+		"highest": 150,
+		"lowest": 340,
+		"diff": 190
+	},
+	{
+		"name": "Montcalm",
+		"highest": 190,
+		"lowest": 330,
+		"diff": 140
+	},
+	{
+		"name": "Gallix",
+		"highest": 20,
+		"lowest": 205,
+		"diff": 185
+	},
+	{
+		"name": "Massanutten",
+		"highest": 533,
+		"lowest": 871,
+		"diff": 338
+	},
+	{
+		"name": "Fairmont Hot Springs",
+		"highest": 1219,
+		"lowest": 1524,
+		"diff": 305
+	},
+	{
+		"name": "Afton Alps",
+		"highest": 280,
+		"lowest": 387,
+		"diff": 107
+	},
+	{
+		"name": "Hesperus Ski Area",
+		"highest": 2523,
+		"lowest": 2706,
+		"diff": 183
+	},
+	{
+		"name": "Mount Sima",
+		"highest": 700,
+		"lowest": 1035,
+		"diff": 335
+	},
+	{
+		"name": "Wentworth",
+		"highest": 55,
+		"lowest": 303,
+		"diff": 248
+	},
+	{
+		"name": "Porcupine Mountain",
+		"highest": 224,
+		"lowest": 416,
+		"diff": 192
+	},
+	{
+		"name": "Mt. Holly",
+		"highest": 295,
+		"lowest": 380,
+		"diff": 85
+	},
+	{
+		"name": "Snow Ridge",
+		"highest": 412,
+		"lowest": 564,
+		"diff": 152
+	},
+	{
+		"name": "Roundtop",
+		"highest": 230,
+		"lowest": 410,
+		"diff": 180
+	},
+	{
+		"name": "Mont-Saint-Mathieu",
+		"highest": 118,
+		"lowest": 337,
+		"diff": 219
+	},
+	{
+		"name": "Spring Mountain",
+		"highest": 50,
+		"lowest": 150,
+		"diff": 100
+	},
+	{
+		"name": "White Hills",
+		"highest": 147,
+		"lowest": 374,
+		"diff": 227
+	},
+	{
+		"name": "Mont Avalanche",
+		"highest": 390,
+		"lowest": 555,
+		"diff": 165
+	},
+	{
+		"name": "Val Neigette",
+		"highest": 110,
+		"lowest": 270,
+		"diff": 160
+	},
+	{
+		"name": "Silver Summit",
+		"highest": 1200,
+		"lowest": 1420,
+		"diff": 220
+	},
+	{
+		"name": "Sitzmark",
+		"highest": 1330,
+		"lowest": 1485,
+		"diff": 155
+	},
+	{
+		"name": "Hidden Valley (AB)",
+		"highest": 1200,
+		"lowest": 1400,
+		"diff": 200
+	},
+	{
+		"name": "Mt. La Crosse",
+		"highest": 220,
+		"lowest": 372,
+		"diff": 152
+	},
+	{
+		"name": "Mount Jamieson – Timmins",
+		"highest": 310,
+		"lowest": 410,
+		"diff": 100
+	},
+	{
+		"name": "Mt. Lemmon Ski Valley",
+		"highest": 2522,
+		"lowest": 2750,
+		"diff": 228
+	},
+	{
+		"name": "Mont Bélu",
+		"highest": 26,
+		"lowest": 190,
+		"diff": 164
+	},
+	{
+		"name": "Norway Mountain",
+		"highest": 300,
+		"lowest": 406,
+		"diff": 106
+	},
+	{
+		"name": "Vallée du Parc",
+		"highest": 150,
+		"lowest": 310,
+		"diff": 160
+	},
+	{
+		"name": "Laurel Mountain",
+		"highest": 609,
+		"lowest": 841,
+		"diff": 232
+	},
+	{
+		"name": "Mount Baldy – Thunder Bay",
+		"highest": 345,
+		"lowest": 490,
+		"diff": 145
+	},
+	{
+		"name": "Misery Mountain",
+		"highest": 337,
+		"lowest": 484,
+		"diff": 147
+	},
+	{
+		"name": "Ochapowace",
+		"highest": 1205,
+		"lowest": 1372,
+		"diff": 167
+	},
+	{
+		"name": "Mont Vidéo",
+		"highest": 370,
+		"lowest": 460,
+		"diff": 90
+	},
+	{
+		"name": "Alpine Valley Resort – Elkhorn",
+		"highest": 310,
+		"lowest": 415,
+		"diff": 105
+	},
+	{
+		"name": "Mont Kanasuta",
+		"highest": 336,
+		"lowest": 483,
+		"diff": 147
+	},
+	{
+		"name": "Wasatch Peaks Ranch",
+		"highest": 1820,
+		"lowest": 2916,
+		"diff": 1096
+	},
+	{
+		"name": "McCauly Mountain",
+		"highest": 540,
+		"lowest": 700,
+		"diff": 160
+	},
+	{
+		"name": "Horseshoe Resort",
+		"highest": 310,
+		"lowest": 390,
+		"diff": 80
+	},
+	{
+		"name": "Ski Brule",
+		"highest": 470,
+		"lowest": 565,
+		"diff": 95
+	},
+	{
+		"name": "Las Vegas Ski and Snowboard Resort – Lee Canyon",
+		"highest": 2650,
+		"lowest": 2856,
+		"diff": 206
+	},
+	{
+		"name": "Caledon Ski Club",
+		"highest": 330,
+		"lowest": 414,
+		"diff": 84
+	},
+	{
+		"name": "Cataloochee",
+		"highest": 1360,
+		"lowest": 1583,
+		"diff": 223
+	},
+	{
+		"name": "Welch Village",
+		"highest": 213,
+		"lowest": 323,
+		"diff": 110
+	},
+	{
+		"name": "Calabogie Peaks",
+		"highest": 160,
+		"lowest": 370,
+		"diff": 210
+	},
+	{
+		"name": "Kinosoo Ridge",
+		"highest": 541,
+		"lowest": 647,
+		"diff": 106
+	},
+	{
+		"name": "Hogadon Ski Area",
+		"highest": 2255,
+		"lowest": 2438,
+		"diff": 183
+	},
+	{
+		"name": "Mount Cain",
+		"highest": 1190,
+		"lowest": 1610,
+		"diff": 420
+	},
+	{
+		"name": "Boler Mountain – London",
+		"highest": 265,
+		"lowest": 328,
+		"diff": 63
+	},
+	{
+		"name": "Mt. Southington",
+		"highest": 62,
+		"lowest": 173,
+		"diff": 111
+	},
+	{
+		"name": "Mont Habitant",
+		"highest": 168,
+		"lowest": 351,
+		"diff": 183
+	},
+	{
+		"name": "Alpine Valley – White Lake",
+		"highest": 293,
+		"lowest": 369,
+		"diff": 76
+	},
+	{
+		"name": "Powder Ridge Mountain Park &amp; Resort",
+		"highest": 115,
+		"lowest": 245,
+		"diff": 130
+	},
+	{
+		"name": "Big Boulder",
+		"highest": 518,
+		"lowest": 663,
+		"diff": 145
+	},
+	{
+		"name": "Snow Trails",
+		"highest": 370,
+		"lowest": 440,
+		"diff": 70
+	},
+	{
+		"name": "Moose Mountain",
+		"highest": 207,
+		"lowest": 595,
+		"diff": 388
+	},
+	{
+		"name": "Camden Snow Bowl",
+		"highest": 72,
+		"lowest": 330,
+		"diff": 258
+	},
+	{
+		"name": "Mt. Eyak",
+		"highest": 122,
+		"lowest": 366,
+		"diff": 244
+	},
+	{
+		"name": "The Heights – Horseshoe Valley",
+		"highest": 270,
+		"lowest": 380,
+		"diff": 110
+	},
+	{
+		"name": "Wolf Ridge",
+		"highest": 1219,
+		"lowest": 1432,
+		"diff": 213
+	},
+	{
+		"name": "Sundown",
+		"highest": 137,
+		"lowest": 328,
+		"diff": 191
+	},
+	{
+		"name": "Mad River Mountain",
+		"highest": 353,
+		"lowest": 445,
+		"diff": 92
+	},
+	{
+		"name": "Hunt Hollow Ski Club",
+		"highest": 250,
+		"lowest": 360,
+		"diff": 110
+	},
+	{
+		"name": "Paoli Peaks",
+		"highest": 166,
+		"lowest": 251,
+		"diff": 85
+	},
+	{
+		"name": "Granite Gorge",
+		"highest": 244,
+		"lowest": 404,
+		"diff": 160
+	},
+	{
+		"name": "King Pine – Purity Spring Resort",
+		"highest": 145,
+		"lowest": 240,
+		"diff": 95
+	},
+	{
+		"name": "Crystal Mountain (MI)",
+		"highest": 245,
+		"lowest": 359,
+		"diff": 114
+	},
+	{
+		"name": "Sommet Gabriel",
+		"highest": 182,
+		"lowest": 343,
+		"diff": 161
+	},
+	{
+		"name": "Sir Sam's",
+		"highest": 360,
+		"lowest": 459,
+		"diff": 99
+	},
+	{
+		"name": "Table Mountain",
+		"highest": 500,
+		"lowest": 600,
+		"diff": 100
+	},
+	{
+		"name": "Vorlage",
+		"highest": 110,
+		"lowest": 240,
+		"diff": 130
+	},
+	{
+		"name": "Devil's Elbow",
+		"highest": 274,
+		"lowest": 362,
+		"diff": 88
+	},
+	{
+		"name": "Mont Ripley",
+		"highest": 200,
+		"lowest": 330,
+		"diff": 130
+	},
+	{
+		"name": "La Tuque",
+		"highest": 169,
+		"lowest": 318,
+		"diff": 149
+	},
+	{
+		"name": "Nashoba Valley",
+		"highest": 58,
+		"lowest": 128,
+		"diff": 70
+	},
+	{
+		"name": "Bryce Resort",
+		"highest": 380,
+		"lowest": 533,
+		"diff": 153
+	},
+	{
+		"name": "Fort Wainwright/​Birch Hill – Fairbanks",
+		"highest": 140,
+		"lowest": 300,
+		"diff": 160
+	},
+	{
+		"name": "Mount Pleasant",
+		"highest": 360,
+		"lowest": 450,
+		"diff": 90
+	},
+	{
+		"name": "Pine Knob",
+		"highest": 310,
+		"lowest": 392,
+		"diff": 82
+	},
+	{
+		"name": "Mont Ti-Basse – Baie-Comeau",
+		"highest": 61,
+		"lowest": 181,
+		"diff": 120
+	},
+	{
+		"name": "Quechee Lakes Ski Area",
+		"highest": 198,
+		"lowest": 380,
+		"diff": 182
+	},
+	{
+		"name": "Perfect North Slopes",
+		"highest": 122,
+		"lowest": 244,
+		"diff": 122
+	},
+	{
+		"name": "Appalachian Ski Mountain",
+		"highest": 1107,
+		"lowest": 1219,
+		"diff": 112
+	},
+	{
+		"name": "Mont Miller",
+		"highest": 548,
+		"lowest": 831,
+		"diff": 283
+	},
+	{
+		"name": "Brimacombe (Oshawa Ski Club)",
+		"highest": 230,
+		"lowest": 300,
+		"diff": 70
+	},
+	{
+		"name": "Whispering Pines – Worsley",
+		"highest": 970,
+		"lowest": 1110,
+		"diff": 140
+	},
+	{
+		"name": "Mt. Brighton",
+		"highest": 285,
+		"lowest": 340,
+		"diff": 55
+	},
+	{
+		"name": "Glen Eden",
+		"highest": 248,
+		"lowest": 320,
+		"diff": 72
+	},
+	{
+		"name": "Mountain High North",
+		"highest": 2198,
+		"lowest": 2287,
+		"diff": 89
+	},
+	{
+		"name": "Chestnut Mountain",
+		"highest": 190,
+		"lowest": 335,
+		"diff": 145
+	},
+	{
+		"name": "Mission Ridge",
+		"highest": 480,
+		"lowest": 560,
+		"diff": 80
+	},
+	{
+		"name": "Nordic Mountain",
+		"highest": 282,
+		"lowest": 346,
+		"diff": 64
+	},
+	{
+		"name": "Black Rapid",
+		"highest": 687,
+		"lowest": 917,
+		"diff": 230
+	},
+	{
+		"name": "Mt. Jefferson",
+		"highest": 128,
+		"lowest": 230,
+		"diff": 102
+	},
+	{
+		"name": "Wilmot Mountain",
+		"highest": 230,
+		"lowest": 292,
+		"diff": 62
+	},
+	{
+		"name": "Hidden Valley (MO)",
+		"highest": 150,
+		"lowest": 240,
+		"diff": 90
+	},
+	{
+		"name": "Mont Castor",
+		"highest": 20,
+		"lowest": 183,
+		"diff": 163
+	},
+	{
+		"name": "Christie Mountain",
+		"highest": 400,
+		"lowest": 510,
+		"diff": 110
+	},
+	{
+		"name": "Hidden Valley Highlands",
+		"highest": 280,
+		"lowest": 380,
+		"diff": 100
+	},
+	{
+		"name": "Chicopee",
+		"highest": 310,
+		"lowest": 370,
+		"diff": 60
+	},
+	{
+		"name": "Seven Oaks",
+		"highest": 277,
+		"lowest": 330,
+		"diff": 53
+	},
+	{
+		"name": "Dagmar Ski Resort",
+		"highest": 120,
+		"lowest": 199,
+		"diff": 79
+	},
+	{
+		"name": "Ober Gatlinburg",
+		"highest": 807,
+		"lowest": 981,
+		"diff": 174
+	},
+	{
+		"name": "Holiday Mountain (NY)",
+		"highest": 320,
+		"lowest": 440,
+		"diff": 120
+	},
+	{
+		"name": "Vista Ridge",
+		"highest": 255,
+		"lowest": 377,
+		"diff": 122
+	},
+	{
+		"name": "The Homestead Resort",
+		"highest": 210,
+		"lowest": 265,
+		"diff": 55
+	},
+	{
+		"name": "Shanty Creek Resorts – Summit Mountain",
+		"highest": 215,
+		"lowest": 300,
+		"diff": 85
+	},
+	{
+		"name": "Mount Peter",
+		"highest": 245,
+		"lowest": 330,
+		"diff": 85
+	},
+	{
+		"name": "Mount Maichen",
+		"highest": 700,
+		"lowest": 920,
+		"diff": 220
+	},
+	{
+		"name": "Cockaigne",
+		"highest": 487,
+		"lowest": 600,
+		"diff": 113
+	},
+	{
+		"name": "Snowstar",
+		"highest": 180,
+		"lowest": 235,
+		"diff": 55
+	},
+	{
+		"name": "Mystic Mountain – Farmington",
+		"highest": 527,
+		"lowest": 619,
+		"diff": 92
+	},
+	{
+		"name": "Mt. Ashwabay – Salmo",
+		"highest": 306,
+		"lowest": 389,
+		"diff": 83
+	},
+	{
+		"name": "Hilltop – Anchorage",
+		"highest": 150,
+		"lowest": 240,
+		"diff": 90
+	},
+	{
+		"name": "Bald Mountain",
+		"highest": 1219,
+		"lowest": 1463,
+		"diff": 244
+	},
+	{
+		"name": "Mount Joy",
+		"highest": 665,
+		"lowest": 757,
+		"diff": 92
+	},
+	{
+		"name": "Tyrol Basin – Mt Horeb",
+		"highest": 266,
+		"lowest": 348,
+		"diff": 82
+	},
+	{
+		"name": "Mont Biencourt",
+		"highest": 260,
+		"lowest": 445,
+		"diff": 185
+	},
+	{
+		"name": "Thunder Ridge",
+		"highest": 147,
+		"lowest": 267,
+		"diff": 120
+	},
+	{
+		"name": "Wapiti Valley",
+		"highest": 220,
+		"lowest": 310,
+		"diff": 90
+	},
+	{
+		"name": "Utah Olympic Park",
+		"highest": 2118,
+		"lowest": 2483,
+		"diff": 365
+	},
+	{
+		"name": "Lakeridge Resort",
+		"highest": 300,
+		"lowest": 370,
+		"diff": 70
+	},
+	{
+		"name": "Huff Hills",
+		"highest": 570,
+		"lowest": 680,
+		"diff": 110
+	},
+	{
+		"name": "Wild Mountain",
+		"highest": 239,
+		"lowest": 321,
+		"diff": 82
+	},
+	{
+		"name": "Powder Ridge",
+		"highest": 356,
+		"lowest": 432,
+		"diff": 76
+	},
+	{
+		"name": "Sundown Mountain Resort",
+		"highest": 218,
+		"lowest": 350,
+		"diff": 132
+	},
+	{
+		"name": "Mt. Holiday",
+		"highest": 210,
+		"lowest": 274,
+		"diff": 64
+	},
+	{
+		"name": "Sky Tavern",
+		"highest": 2312,
+		"lowest": 2517,
+		"diff": 205
+	},
+	{
+		"name": "Hickory",
+		"highest": 208,
+		"lowest": 540,
+		"diff": 332
+	},
+	{
+		"name": "Snow Valley – Barrie",
+		"highest": 230,
+		"lowest": 320,
+		"diff": 90
+	},
+	{
+		"name": "Woods Valley",
+		"highest": 175,
+		"lowest": 325,
+		"diff": 150
+	},
+	{
+		"name": "Snow Creek",
+		"highest": 250,
+		"lowest": 335,
+		"diff": 85
+	},
+	{
+		"name": "Mansfield Ski Club",
+		"highest": 260,
+		"lowest": 370,
+		"diff": 110
+	},
+	{
+		"name": "Wapiti Ski Hill – Elkford",
+		"highest": 1355,
+		"lowest": 1657,
+		"diff": 302
+	},
+	{
+		"name": "Bradford",
+		"highest": 10,
+		"lowest": 80,
+		"diff": 70
+	},
+	{
+		"name": "Andes Tower Hills",
+		"highest": 405,
+		"lowest": 494,
+		"diff": 89
+	},
+	{
+		"name": "Treetops",
+		"highest": 341,
+		"lowest": 406,
+		"diff": 65
+	},
+	{
+		"name": "Otis Ridge",
+		"highest": 375,
+		"lowest": 480,
+		"diff": 105
+	},
+	{
+		"name": "Mt. Zion Hill",
+		"highest": 435,
+		"lowest": 526,
+		"diff": 91
+	},
+	{
+		"name": "Sawmill Mountain Resort",
+		"highest": 510,
+		"lowest": 620,
+		"diff": 110
+	},
+	{
+		"name": "Pass Powderkeg – Crowsnest Pass",
+		"highest": 1300,
+		"lowest": 1580,
+		"diff": 280
+	},
+	{
+		"name": "Little Switzerland",
+		"highest": 330,
+		"lowest": 380,
+		"diff": 50
+	},
+	{
+		"name": "Timber Ridge",
+		"highest": 205,
+		"lowest": 274,
+		"diff": 69
+	},
+	{
+		"name": "Brookvale Ski Park",
+		"highest": 20,
+		"lowest": 96,
+		"diff": 76
+	},
+	{
+		"name": "Skeetawk – Hatcher Pass",
+		"highest": 442,
+		"lowest": 808,
+		"diff": 366
+	},
+	{
+		"name": "McIntyre",
+		"highest": 107,
+		"lowest": 155,
+		"diff": 48
+	},
+	{
+		"name": "Do-Mi-Ski – Dolbeau-Mistassini",
+		"highest": 117,
+		"lowest": 158,
+		"diff": 41
+	},
+	{
+		"name": "Great Bear Ski Valley",
+		"highest": 410,
+		"lowest": 470,
+		"diff": 60
+	},
+	{
+		"name": "Timberline Summit Pass",
+		"highest": 1219,
+		"lowest": 1312,
+		"diff": 93
+	},
+	{
+		"name": "Tussey Mountain",
+		"highest": 401,
+		"lowest": 553,
+		"diff": 152
+	},
+	{
+		"name": "Lost Valley",
+		"highest": 78,
+		"lowest": 166,
+		"diff": 88
+	},
+	{
+		"name": "Saint-Raymond",
+		"highest": 140,
+		"lowest": 250,
+		"diff": 110
+	},
+	{
+		"name": "Mont du Lac",
+		"highest": 195,
+		"lowest": 280,
+		"diff": 85
+	},
+	{
+		"name": "Blue Hills",
+		"highest": 80,
+		"lowest": 180,
+		"diff": 100
+	},
+	{
+		"name": "Howelsen Hill – Steamboat Springs",
+		"highest": 2040,
+		"lowest": 2175,
+		"diff": 135
+	},
+	{
+		"name": "Boston Mills",
+		"highest": 200,
+		"lowest": 270,
+		"diff": 70
+	},
+	{
+		"name": "Mont Chalco",
+		"highest": 415,
+		"lowest": 503,
+		"diff": 88
+	},
+	{
+		"name": "Mont Fortin",
+		"highest": 31,
+		"lowest": 123,
+		"diff": 92
+	},
+	{
+		"name": "Nitehawk",
+		"highest": 540,
+		"lowest": 675,
+		"diff": 135
+	},
+	{
+		"name": "Trollhaugen",
+		"highest": 290,
+		"lowest": 362,
+		"diff": 72
+	},
+	{
+		"name": "Elko Snobowl",
+		"highest": 1932,
+		"lowest": 2130,
+		"diff": 198
+	},
+	{
+		"name": "Sunburst",
+		"highest": 297,
+		"lowest": 357,
+		"diff": 60
+	},
+	{
+		"name": "Eagle Rock",
+		"highest": 395,
+		"lowest": 550,
+		"diff": 155
+	},
+	{
+		"name": "Kendall Mountain – Silverton",
+		"highest": 2840,
+		"lowest": 3000,
+		"diff": 160
+	},
+	{
+		"name": "Chester Bowl",
+		"highest": 330,
+		"lowest": 380,
+		"diff": 50
+	},
+	{
+		"name": "Frost Fire Park",
+		"highest": 330,
+		"lowest": 440,
+		"diff": 110
+	},
+	{
+		"name": "Mt. Crescent",
+		"highest": 366,
+		"lowest": 457,
+		"diff": 91
+	},
+	{
+		"name": "Sunridge",
+		"highest": 615,
+		"lowest": 673,
+		"diff": 58
+	},
+	{
+		"name": "Holiday Mountain (MB)",
+		"highest": 390,
+		"lowest": 460,
+		"diff": 70
+	},
+	{
+		"name": "Tobo-Ski",
+		"highest": 211,
+		"lowest": 278,
+		"diff": 67
+	},
+	{
+		"name": "Clearwater",
+		"highest": 1000,
+		"lowest": 1250,
+		"diff": 250
+	},
+	{
+		"name": "Uplands Ski Centre",
+		"highest": 170,
+		"lowest": 200,
+		"diff": 30
+	},
+	{
+		"name": "Buena Vista",
+		"highest": 400,
+		"lowest": 470,
+		"diff": 70
+	},
+	{
+		"name": "Snow Snake",
+		"highest": 317,
+		"lowest": 365,
+		"diff": 48
+	},
+	{
+		"name": "Mount Pakenham",
+		"highest": 137,
+		"lowest": 223,
+		"diff": 86
+	},
+	{
+		"name": "Brandywine",
+		"highest": 190,
+		"lowest": 270,
+		"diff": 80
+	},
+	{
+		"name": "Coffee Mill",
+		"highest": 230,
+		"lowest": 360,
+		"diff": 130
+	},
+	{
+		"name": "Alpine Valley Ohio",
+		"highest": 340,
+		"lowest": 405,
+		"diff": 65
+	},
+	{
+		"name": "Alta Sierra – Shirley Meadows",
+		"highest": 2038,
+		"lowest": 2160,
+		"diff": 122
+	},
+	{
+		"name": "Hermon Mountain",
+		"highest": 50,
+		"lowest": 140,
+		"diff": 90
+	},
+	{
+		"name": "Adanac Ski Hill",
+		"highest": 270,
+		"lowest": 340,
+		"diff": 70
+	},
+	{
+		"name": "Mount Dufour",
+		"highest": 314,
+		"lowest": 412,
+		"diff": 98
+	},
+	{
+		"name": "Christmas Mountain",
+		"highest": 310,
+		"lowest": 370,
+		"diff": 60
+	},
+	{
+		"name": "Rabbit Hill Snow Resort",
+		"highest": 635,
+		"lowest": 703,
+		"diff": 68
+	},
+	{
+		"name": "Campton Mountain",
+		"highest": 362,
+		"lowest": 435,
+		"diff": 73
+	},
+	{
+		"name": "Hyland Hills",
+		"highest": 260,
+		"lowest": 310,
+		"diff": 50
+	},
+	{
+		"name": "Bear's Den Mountain – Fort Ransom",
+		"highest": 350,
+		"lowest": 430,
+		"diff": 80
+	},
+	{
+		"name": "Minnedosa Ski Valley",
+		"highest": 520,
+		"lowest": 600,
+		"diff": 80
+	},
+	{
+		"name": "Willard Mountain – Greenwich",
+		"highest": 281,
+		"lowest": 421,
+		"diff": 140
+	},
+	{
+		"name": "Mt. Abram",
+		"highest": 290,
+		"lowest": 610,
+		"diff": 320
+	},
+	{
+		"name": "Mont Apic",
+		"highest": 230,
+		"lowest": 325,
+		"diff": 95
+	},
+	{
+		"name": "Dry Hill",
+		"highest": 217,
+		"lowest": 300,
+		"diff": 83
+	},
+	{
+		"name": "Mont Bellevue",
+		"highest": 250,
+		"lowest": 332,
+		"diff": 82
+	},
+	{
+		"name": "Maple Ski Ridge",
+		"highest": 164,
+		"lowest": 250,
+		"diff": 86
+	},
+	{
+		"name": "Cannonsburg",
+		"highest": 210,
+		"lowest": 280,
+		"diff": 70
+	},
+	{
+		"name": "The Omni Homestead",
+		"highest": 750,
+		"lowest": 930,
+		"diff": 180
+	},
+	{
+		"name": "Heiliger Huegel – Hubertus",
+		"highest": 314,
+		"lowest": 391,
+		"diff": 77
+	},
+	{
+		"name": "Grand Geneva",
+		"highest": 240,
+		"lowest": 304,
+		"diff": 64
+	},
+	{
+		"name": "Salmo Ski Hill",
+		"highest": 695,
+		"lowest": 1030,
+		"diff": 335
+	},
+	{
+		"name": "Mystery Mountain",
+		"highest": 214,
+		"lowest": 279,
+		"diff": 65
+	},
+	{
+		"name": "Bruce Mound",
+		"highest": 300,
+		"lowest": 400,
+		"diff": 100
+	},
+	{
+		"name": "Echo Mountain Park – Idaho Springs",
+		"highest": 3200,
+		"lowest": 3401,
+		"diff": 201
+	},
+	{
+		"name": "Ward Hill – Shrewsbury",
+		"highest": 105,
+		"lowest": 160,
+		"diff": 55
+	},
+	{
+		"name": "Swiss Valley",
+		"highest": 296,
+		"lowest": 364,
+		"diff": 68
+	},
+	{
+		"name": "Tawatinaw Valley",
+		"highest": 619,
+		"lowest": 681,
+		"diff": 62
+	},
+	{
+		"name": "Martock",
+		"highest": 30,
+		"lowest": 185,
+		"diff": 155
+	},
+	{
+		"name": "Mount Ski Gull",
+		"highest": 385,
+		"lowest": 443,
+		"diff": 58
+	},
+	{
+		"name": "Phoenix Mountain",
+		"highest": 1260,
+		"lowest": 1480,
+		"diff": 220
+	},
+	{
+		"name": "Campgaw Mountain",
+		"highest": 143,
+		"lowest": 217,
+		"diff": 74
+	},
+	{
+		"name": "Ferguson Ridge",
+		"highest": 1585,
+		"lowest": 1780,
+		"diff": 195
+	},
+	{
+		"name": "Detroit Mountain",
+		"highest": 440,
+		"lowest": 490,
+		"diff": 50
+	},
+	{
+		"name": "Snow Valley – Edmonton",
+		"highest": 625,
+		"lowest": 665,
+		"diff": 40
+	},
+	{
+		"name": "Val Bialas Ski Center – Utica",
+		"highest": 175,
+		"lowest": 251,
+		"diff": 76
+	},
+	{
+		"name": "Haute Gaspésie",
+		"highest": 60,
+		"lowest": 210,
+		"diff": 150
+	},
+	{
+		"name": "Earl Bales – North York (Toronto)",
+		"highest": 140,
+		"lowest": 183,
+		"diff": 43
+	},
+	{
+		"name": "Buck Hill Ski Area",
+		"highest": 290,
+		"lowest": 371,
+		"diff": 81
+	},
+	{
+		"name": "Yawgoo Valley",
+		"highest": 35,
+		"lowest": 91,
+		"diff": 56
+	},
+	{
+		"name": "Tri Town",
+		"highest": 238,
+		"lowest": 337,
+		"diff": 99
+	},
+	{
+		"name": "Centre de Plein Air – Lévis",
+		"highest": 70,
+		"lowest": 100,
+		"diff": 30
+	},
+	{
+		"name": "Big Tupper – Tupper Lake",
+		"highest": 609,
+		"lowest": 1082,
+		"diff": 473
+	},
+	{
+		"name": "Bottineau Winter Park",
+		"highest": 693,
+		"lowest": 746,
+		"diff": 53
+	},
+	{
+		"name": "Camp 10",
+		"highest": 460,
+		"lowest": 530,
+		"diff": 70
+	},
+	{
+		"name": "Le Petit Chamonix",
+		"highest": 200,
+		"lowest": 350,
+		"diff": 150
+	},
+	{
+		"name": "Saint-Georges",
+		"highest": 172,
+		"lowest": 256,
+		"diff": 84
+	},
+	{
+		"name": "Laurentian Ski Hill – North Bay",
+		"highest": 220,
+		"lowest": 325,
+		"diff": 105
+	},
+	{
+		"name": "Beartooth Basin",
+		"highest": 3017,
+		"lowest": 3322,
+		"diff": 305
+	},
+	{
+		"name": "Saint-Pacôme",
+		"highest": 150,
+		"lowest": 300,
+		"diff": 150
+	},
+	{
+		"name": "Woodbury",
+		"highest": 168,
+		"lowest": 259,
+		"diff": 91
+	},
+	{
+		"name": "The Rock Snowpark",
+		"highest": 214,
+		"lowest": 284,
+		"diff": 70
+	},
+	{
+		"name": "Duck Mountain – Kamsack",
+		"highest": 553,
+		"lowest": 637,
+		"diff": 84
+	},
+	{
+		"name": "Cap-Chat",
+		"highest": 27,
+		"lowest": 230,
+		"diff": 203
+	},
+	{
+		"name": "Beauce – Vallée-Jonction",
+		"highest": 152,
+		"lowest": 212,
+		"diff": 60
+	},
+	{
+		"name": "Thunderhill – Benito",
+		"highest": 469,
+		"lowest": 572,
+		"diff": 103
+	},
+	{
+		"name": "Titcomb Mountain",
+		"highest": 126,
+		"lowest": 210,
+		"diff": 84
+	},
+	{
+		"name": "Villa Roma",
+		"highest": 335,
+		"lowest": 390,
+		"diff": 55
+	},
+	{
+		"name": "Bear Mountain – Dawson Creek",
+		"highest": 780,
+		"lowest": 908,
+		"diff": 128
+	},
+	{
+		"name": "Green Mountain – Brush Creek Ranch",
+		"highest": 2300,
+		"lowest": 2635,
+		"diff": 335
+	},
+	{
+		"name": "Oglebay Resort",
+		"highest": null,
+		"lowest": null,
+		"diff": null
+	},
+	{
+		"name": "Sunrise Park",
+		"highest": 2853,
+		"lowest": 3330,
+		"diff": 477
+	},
+	{
+		"name": "Blizzard Mountain",
+		"highest": 1705,
+		"lowest": 1922,
+		"diff": 217
+	},
+	{
+		"name": "Madawaska Mountain",
+		"highest": 290,
+		"lowest": 427,
+		"diff": 137
+	},
+	{
+		"name": "Stagecoach Mountain",
+		"highest": 2290,
+		"lowest": 2867,
+		"diff": 577
+	},
+	{
+		"name": "Fairview Ski Hill",
+		"highest": 405,
+		"lowest": 580,
+		"diff": 175
+	},
+	{
+		"name": "Villa Olivia – Bartlett",
+		"highest": 241,
+		"lowest": 258,
+		"diff": 17
+	},
+	{
+		"name": "Hillberg",
+		"highest": 40,
+		"lowest": 120,
+		"diff": 80
+	},
+	{
+		"name": "Batawa Ski Hill",
+		"highest": 30,
+		"lowest": 80,
+		"diff": 50
+	},
+	{
+		"name": "Rotarun",
+		"highest": 1671,
+		"lowest": 1790,
+		"diff": 119
+	},
+	{
+		"name": "Plumas Eureka Ski Bowl",
+		"highest": 1675,
+		"lowest": 1874,
+		"diff": 199
+	},
+	{
+		"name": "Lonesome Pine Trails – Fort Kent",
+		"highest": 173,
+		"lowest": 299,
+		"diff": 126
+	},
+	{
+		"name": "Little Smoky",
+		"highest": 480,
+		"lowest": 550,
+		"diff": 70
+	},
+	{
+		"name": "Ausblick – Sussex",
+		"highest": 295,
+		"lowest": 350,
+		"diff": 55
+	},
+	{
+		"name": "Denton Hill State Park",
+		"highest": 550,
+		"lowest": 750,
+		"diff": 200
+	},
+	{
+		"name": "Woodward Park City",
+		"highest": 1970,
+		"lowest": 2076,
+		"diff": 106
+	},
+	{
+		"name": "Cottonwood Butte",
+		"highest": 1450,
+		"lowest": 1707,
+		"diff": 257
+	},
+	{
+		"name": "Sapphire Valley",
+		"highest": 964,
+		"lowest": 1005,
+		"diff": 41
+	},
+	{
+		"name": "Toggenburg Ski Center",
+		"highest": 383,
+		"lowest": 543,
+		"diff": 160
+	},
+	{
+		"name": "Silverton Mountain",
+		"highest": 3147,
+		"lowest": 3790,
+		"diff": 643
+	},
+	{
+		"name": "Four Seasons",
+		"highest": 160,
+		"lowest": 185,
+		"diff": 25
+	},
+	{
+		"name": "Boyce Park",
+		"highest": 340,
+		"lowest": 380,
+		"diff": 40
+	},
+	{
+		"name": "Mont Chilly",
+		"highest": 191,
+		"lowest": 311,
+		"diff": 120
+	},
+	{
+		"name": "Big Creek Ski Area",
+		"highest": 270,
+		"lowest": 320,
+		"diff": 50
+	},
+	{
+		"name": "Coppervale",
+		"highest": 1600,
+		"lowest": 1825,
+		"diff": 225
+	},
+	{
+		"name": "Medicine Lodge",
+		"highest": 1004,
+		"lowest": 1102,
+		"diff": 98
+	},
+	{
+		"name": "Mount Evergreen – Kenora",
+		"highest": 356,
+		"lowest": 401,
+		"diff": 45
+	},
+	{
+		"name": "Snowhaven",
+		"highest": 1617,
+		"lowest": 1730,
+		"diff": 113
+	},
+	{
+		"name": "Baie des Sables",
+		"highest": 410,
+		"lowest": 460,
+		"diff": 50
+	},
+	{
+		"name": "Edmonton Ski Club",
+		"highest": 624,
+		"lowest": 660,
+		"diff": 36
+	},
+	{
+		"name": "Solbakken – Sisimiut",
+		"highest": 230,
+		"lowest": 350,
+		"diff": 120
+	},
+	{
+		"name": "Navarino Hills",
+		"highest": 240,
+		"lowest": 270,
+		"diff": 30
+	},
+	{
+		"name": "Cobble Hills",
+		"highest": 312,
+		"lowest": 343,
+		"diff": 31
+	},
+	{
+		"name": "Boogie Mountain – Espanola",
+		"highest": 205,
+		"lowest": 260,
+		"diff": 55
+	},
+	{
+		"name": "Cazenovia",
+		"highest": 291,
+		"lowest": 440,
+		"diff": 149
+	},
+	{
+		"name": "Mount Martin – Deep River",
+		"highest": 121,
+		"lowest": 144,
+		"diff": 23
+	},
+	{
+		"name": "Winter Park – Kewaunee County",
+		"highest": 184,
+		"lowest": 225,
+		"diff": 41
+	},
+	{
+		"name": "Valley Ski Hill – Alliance",
+		"highest": 655,
+		"lowest": 687,
+		"diff": 32
+	},
+	{
+		"name": "Summit Lake – Nakusp",
+		"highest": 775,
+		"lowest": 920,
+		"diff": 145
+	},
+	{
+		"name": "Big Snow American Dream (indoor ski area)",
+		"highest": 100,
+		"lowest": 136,
+		"diff": 36
+	},
+	{
+		"name": "Lively",
+		"highest": 266,
+		"lowest": 310,
+		"diff": 44
+	},
+	{
+		"name": "Lyndon Outing Club",
+		"highest": 260,
+		"lowest": 380,
+		"diff": 120
+	},
+	{
+		"name": "Drayton Valley – Brazeau Ski Hill",
+		"highest": 697,
+		"lowest": 747,
+		"diff": 50
+	},
+	{
+		"name": "Cochran",
+		"highest": 122,
+		"lowest": 213,
+		"diff": 91
+	},
+	{
+		"name": "Mount Greylock – South Williamstown",
+		"highest": 387,
+		"lowest": 481,
+		"diff": 94
+	},
+	{
+		"name": "Mount Fairweather – Atikokan",
+		"highest": 100,
+		"lowest": 206,
+		"diff": 106
+	},
+	{
+		"name": "Blandford",
+		"highest": 280,
+		"lowest": 440,
+		"diff": 160
+	},
+	{
+		"name": "Skyline – Friendship",
+		"highest": 296,
+		"lowest": 392,
+		"diff": 96
+	},
+	{
+		"name": "Cuchara Mountain Park",
+		"highest": 2819,
+		"lowest": 3294,
+		"diff": 475
+	},
+	{
+		"name": "Badger Mountain",
+		"highest": 914,
+		"lowest": 1062,
+		"diff": 148
+	},
+	{
+		"name": "Storrs Hill – Lebanon",
+		"highest": 170,
+		"lowest": 282,
+		"diff": 112
+	},
+	{
+		"name": "Misty Ridge",
+		"highest": 633,
+		"lowest": 675,
+		"diff": 42
+	},
+	{
+		"name": "Hurricane Ridge",
+		"highest": 1463,
+		"lowest": 1676,
+		"diff": 213
+	},
+	{
+		"name": "Spring Hill Winter Park",
+		"highest": 220,
+		"lowest": 265,
+		"diff": 45
+	},
+	{
+		"name": "Lake City Ski Hill",
+		"highest": 2703,
+		"lowest": 2771,
+		"diff": 68
+	},
+	{
+		"name": "Mont Villa Saguenay",
+		"highest": 66,
+		"lowest": 120,
+		"diff": 54
+	},
+	{
+		"name": "Whitetail Ridge – Fort McCoy",
+		"highest": 271,
+		"lowest": 322,
+		"diff": 51
+	},
+	{
+		"name": "Spring Lake Ski Hill",
+		"highest": 847,
+		"lowest": 896,
+		"diff": 49
+	},
+	{
+		"name": "Alice Hill Park – Pembroke",
+		"highest": 150,
+		"lowest": 210,
+		"diff": 60
+	},
+	{
+		"name": "Trestle Ridge – Terrace Bay",
+		"highest": 260,
+		"lowest": 281,
+		"diff": 21
+	},
+	{
+		"name": "Ascutney Mountain",
+		"highest": 219,
+		"lowest": 768,
+		"diff": 549
+	},
+	{
+		"name": "Mont Sauvage",
+		"highest": 380,
+		"lowest": 503,
+		"diff": 123
+	},
+	{
+		"name": "Moose Mountain – Dawson City",
+		"highest": 440,
+		"lowest": 532,
+		"diff": 92
+	},
+	{
+		"name": "Parc de l'Île Melville – Val Mauricie",
+		"highest": 41,
+		"lowest": 116,
+		"diff": 75
+	},
+	{
+		"name": "Timber Ridge – Big River",
+		"highest": 508,
+		"lowest": 589,
+		"diff": 81
+	},
+	{
+		"name": "Granlibakken",
+		"highest": 1924,
+		"lowest": 2015,
+		"diff": 91
+	},
+	{
+		"name": "Mulligan's Hollow Ski Bowl",
+		"highest": 188,
+		"lowest": 233,
+		"diff": 45
+	},
+	{
+		"name": "Beartown",
+		"highest": 263,
+		"lowest": 304,
+		"diff": 41
+	},
+	{
+		"name": "Little Mac – Mackenzie",
+		"highest": 755,
+		"lowest": 796,
+		"diff": 41
+	},
+	{
+		"name": "Indian Lake",
+		"highest": 532,
+		"lowest": 599,
+		"diff": 67
+	},
+	{
+		"name": "The Ridge – Le Roy",
+		"highest": 207,
+		"lowest": 245,
+		"diff": 38
+	},
+	{
+		"name": "Veterans Memorial – Franklin",
+		"highest": 236,
+		"lowest": 305,
+		"diff": 69
+	},
+	{
+		"name": "Echo Valley – Lake Chelan",
+		"highest": 798,
+		"lowest": 948,
+		"diff": 150
+	},
+	{
+		"name": "Gwynne Valley",
+		"highest": 716,
+		"lowest": 742,
+		"diff": 26
+	},
+	{
+		"name": "Paul Bunyan Ski Hill",
+		"highest": 380,
+		"lowest": 415,
+		"diff": 35
+	},
+	{
+		"name": "Little Ski Hill",
+		"highest": 1580,
+		"lowest": 1700,
+		"diff": 120
+	},
+	{
+		"name": "Mt. Pisgah",
+		"highest": 540,
+		"lowest": 627,
+		"diff": 87
+	},
+	{
+		"name": "Spruce Mountain – Jay",
+		"highest": 107,
+		"lowest": 183,
+		"diff": 76
+	},
+	{
+		"name": "Elk Ridge – Williams",
+		"highest": 2306,
+		"lowest": 2452,
+		"diff": 146
+	},
+	{
+		"name": "Red Hill – Moultonborough",
+		"highest": 191,
+		"lowest": 260,
+		"diff": 69
+	},
+	{
+		"name": "Tupilak – Aasiaat",
+		"highest": 1,
+		"lowest": 115,
+		"diff": 114
+	},
+	{
+		"name": "Polar Peak",
+		"highest": 166,
+		"lowest": 196,
+		"diff": 30
+	},
+	{
+		"name": "Buckhorn Ski and Snowboard Club",
+		"highest": 2046,
+		"lowest": 2188,
+		"diff": 142
+	},
+	{
+		"name": "Abenaki",
+		"highest": 180,
+		"lowest": 250,
+		"diff": 70
+	},
+	{
+		"name": "Stover Mountain",
+		"highest": 1554,
+		"lowest": 1706,
+		"diff": 152
+	},
+	{
+		"name": "Fox Hill",
+		"highest": 316,
+		"lowest": 385,
+		"diff": 69
+	},
+	{
+		"name": "Northeast Slopes – East Corinth",
+		"highest": 252,
+		"lowest": 355,
+		"diff": 103
+	},
+	{
+		"name": "Hanson Hills",
+		"highest": 350,
+		"lowest": 390,
+		"diff": 40
+	},
+	{
+		"name": "Val-d'Or",
+		"highest": 338,
+		"lowest": 356,
+		"diff": 18
+	},
+	{
+		"name": "Sisorarfiit – Nuuk",
+		"highest": 10,
+		"lowest": 137,
+		"diff": 127
+	},
+	{
+		"name": "Mont Pits – Cabano",
+		"highest": 167,
+		"lowest": 204,
+		"diff": 37
+	},
+	{
+		"name": "Brantling",
+		"highest": 140,
+		"lowest": 210,
+		"diff": 70
+	},
+	{
+		"name": "Quoggy Jo Ski Center – Presque Isle",
+		"highest": 217,
+		"lowest": 275,
+		"diff": 58
+	},
+	{
+		"name": "Missaukee Mountain",
+		"highest": 382,
+		"lowest": 430,
+		"diff": 48
+	},
+	{
+		"name": "Pinnacle Park – Pittsfield",
+		"highest": 73,
+		"lowest": 96,
+		"diff": 23
+	},
+	{
+		"name": "Farr's Hill – Randolph",
+		"highest": 225,
+		"lowest": 270,
+		"diff": 45
+	},
+	{
+		"name": "Bosques de Monterreal – San Antonio de las Alazanas (dry slopes)",
+		"highest": 2671,
+		"lowest": 2722,
+		"diff": 51
+	},
+	{
+		"name": "Hart Highlands – Prince George",
+		"highest": 720,
+		"lowest": 760,
+		"diff": 40
+	},
+	{
+		"name": "Centennial Park – Etobicoke (Toronto)",
+		"highest": 156,
+		"lowest": 176,
+		"diff": 20
+	},
+	{
+		"name": "Eastlink Park – Whitecourt",
+		"highest": 718,
+		"lowest": 746,
+		"diff": 28
+	},
+	{
+		"name": "Stony Mountain",
+		"highest": 239,
+		"lowest": 257,
+		"diff": 18
+	},
+	{
+		"name": "Living Memorial Park – Brattleboro",
+		"highest": 132,
+		"lowest": 189,
+		"diff": 57
+	},
+	{
+		"name": "Falcon Ridge",
+		"highest": 331,
+		"lowest": 367,
+		"diff": 36
+	},
+	{
+		"name": "Big Bam – Taylor",
+		"highest": 414,
+		"lowest": 469,
+		"diff": 55
+	},
+	{
+		"name": "Hockley Valley",
+		"highest": 309,
+		"lowest": 423,
+		"diff": 114
+	},
+	{
+		"name": "Plumtree (Fawnridge) – Lake Carroll",
+		"highest": 248,
+		"lowest": 293,
+		"diff": 45
+	},
+	{
+		"name": "Kettlebowl",
+		"highest": 493,
+		"lowest": 542,
+		"diff": 49
+	},
+	{
+		"name": "Meany Lodge",
+		"highest": 890,
+		"lowest": 1020,
+		"diff": 130
+	},
+	{
+		"name": "Twin Towers",
+		"highest": 690,
+		"lowest": 770,
+		"diff": 80
+	},
+	{
+		"name": "Mount Molson – Petawawa",
+		"highest": 125,
+		"lowest": 143,
+		"diff": 18
+	},
+	{
+		"name": "Challenge Mountain – Walloon Lake",
+		"highest": 221,
+		"lowest": 325,
+		"diff": 104
+	},
+	{
+		"name": "Mt. Eustis – Littleton",
+		"highest": 300,
+		"lowest": 385,
+		"diff": 85
+	},
+	{
+		"name": "Snow Goose Mountain",
+		"highest": 25,
+		"lowest": 184,
+		"diff": 159
+	},
+	{
+		"name": "Mt. McSauba",
+		"highest": 185,
+		"lowest": 216,
+		"diff": 31
+	},
+	{
+		"name": "Innisfail",
+		"highest": 934,
+		"lowest": 955,
+		"diff": 21
+	},
+	{
+		"name": "Mount Prospect – Lancaster",
+		"highest": 444,
+		"lowest": 520,
+		"diff": 76
+	},
+	{
+		"name": "John &amp; Melissa Besse Sports Park – Gladstone",
+		"highest": 196,
+		"lowest": 228,
+		"diff": 32
+	},
+	{
+		"name": "Triangle Sports Area – Green Bay",
+		"highest": 195,
+		"lowest": 217,
+		"diff": 22
+	},
+	{
+		"name": "René Brunelle",
+		"highest": 260,
+		"lowest": 280,
+		"diff": 20
+	},
+	{
+		"name": "Sahalie Ski Club",
+		"highest": 900,
+		"lowest": 955,
+		"diff": 55
+	},
+	{
+		"name": "Blackhawk Ski Club – Middleton",
+		"highest": 283,
+		"lowest": 328,
+		"diff": 45
+	},
+	{
+		"name": "Powers Bluff",
+		"highest": 400,
+		"lowest": 436,
+		"diff": 36
+	},
+	{
+		"name": "Four Lakes",
+		"highest": 200,
+		"lowest": 220,
+		"diff": 20
+	},
+	{
+		"name": "Leavenworth Ski Hill",
+		"highest": 450,
+		"lowest": 520,
+		"diff": 70
+	},
+	{
+		"name": "Pando Park",
+		"highest": 260,
+		"lowest": 300,
+		"diff": 40
+	},
+	{
+		"name": "Eaton Mountain",
+		"highest": 50,
+		"lowest": 140,
+		"diff": 90
+	},
+	{
+		"name": "Pente à Neige – Montreal",
+		"highest": 31,
+		"lowest": 48,
+		"diff": 17
+	},
+	{
+		"name": "Standing Rocks",
+		"highest": 335,
+		"lowest": 372,
+		"diff": 37
+	},
+	{
+		"name": "Adventure Mountain – Greenland",
+		"highest": 377,
+		"lowest": 415,
+		"diff": 38
+	},
+	{
+		"name": "Al Quaal",
+		"highest": 430,
+		"lowest": 451,
+		"diff": 21
+	},
+	{
+		"name": "Kinsmen – Little Red River Park (Prince Albert)",
+		"highest": 427,
+		"lowest": 438,
+		"diff": 11
+	},
+	{
+		"name": "Keyes Peak",
+		"highest": 400,
+		"lowest": 450,
+		"diff": 50
+	},
+	{
+		"name": "Powderhouse Hill – South Berwick",
+		"highest": 37,
+		"lowest": 80,
+		"diff": 43
+	},
+	{
+		"name": "Bristol Pit – Yellowknife",
+		"highest": 185,
+		"lowest": 200,
+		"diff": 15
+	},
+	{
+		"name": "Terrebonne",
+		"highest": 30,
+		"lowest": 60,
+		"diff": 30
+	},
+	{
+		"name": "Cloudmont",
+		"highest": 503,
+		"lowest": 548,
+		"diff": 45
+	},
+	{
+		"name": "South Tweedsmuir Park",
+		"highest": 1595,
+		"lowest": 1646,
+		"diff": 51
+	},
+	{
+		"name": "Chipmunk",
+		"highest": 1966,
+		"lowest": 2058,
+		"diff": 92
+	},
+	{
+		"name": "Tøsebakken – Sisimiut",
+		"highest": 44,
+		"lowest": 68,
+		"diff": 24
+	},
+	{
+		"name": "Petoskey Winter Sports Park",
+		"highest": 219,
+		"lowest": 248,
+		"diff": 29
+	},
+	{
+		"name": "Pinehurst Park – Eau Claire",
+		"highest": 280,
+		"lowest": 316,
+		"diff": 36
+	},
+	{
+		"name": "Salmonberry – Valdez",
+		"highest": 37,
+		"lowest": 87,
+		"diff": 50
+	},
+	{
+		"name": "Optimist Hill",
+		"highest": 499,
+		"lowest": 520,
+		"diff": 21
+	},
+	{
+		"name": "Hudson's Hope – Portage Mountain",
+		"highest": 795,
+		"lowest": 843,
+		"diff": 48
+	},
+	{
+		"name": "Bowe's Ski Hill – Steamboat Springs",
+		"highest": 2105,
+		"lowest": 2135,
+		"diff": 30
+	},
+	{
+		"name": "Dynamite Hill – Chestertown",
+		"highest": 253,
+		"lowest": 281,
+		"diff": 28
+	},
+	{
+		"name": "Hard'ack (Aldis Hill) – St. Albans",
+		"highest": 190,
+		"lowest": 230,
+		"diff": 40
+	},
+	{
+		"name": "Nutt Hill – Plymouth",
+		"highest": 273,
+		"lowest": 309,
+		"diff": 36
+	},
+	{
+		"name": "Pantheon",
+		"highest": 914,
+		"lowest": 2896,
+		"diff": 1982
+	},
+	{
+		"name": "Bugaboos",
+		"highest": 945,
+		"lowest": 3050,
+		"diff": 2105
+	},
+	{
+		"name": "Crescent Spur",
+		"highest": 1067,
+		"lowest": 2743,
+		"diff": 1676
+	},
+	{
+		"name": "Kootenay",
+		"highest": 1060,
+		"lowest": 2880,
+		"diff": 1820
+	},
+	{
+		"name": "McBride",
+		"highest": 1100,
+		"lowest": 3000,
+		"diff": 1900
+	},
+	{
+		"name": "Northern Escape Heli-Skiing",
+		"highest": 450,
+		"lowest": 2450,
+		"diff": 2000
+	},
+	{
+		"name": "Last Frontier – Bob Quinn Lake",
+		"highest": 600,
+		"lowest": 2600,
+		"diff": 2000
+	},
+	{
+		"name": "Bobby Burns",
+		"highest": 1370,
+		"lowest": 3050,
+		"diff": 1680
+	},
+	{
+		"name": "Adamants",
+		"highest": 900,
+		"lowest": 3100,
+		"diff": 2200
+	},
+	{
+		"name": "Canadian Mountain Holidays – Valemount",
+		"highest": 1000,
+		"lowest": 3150,
+		"diff": 2150
+	},
+	{
+		"name": "Gothics",
+		"highest": 1000,
+		"lowest": 2800,
+		"diff": 1800
+	},
+	{
+		"name": "Atlin Heli Sports",
+		"highest": 700,
+		"lowest": 2500,
+		"diff": 1800
+	},
+	{
+		"name": "Points North Heli Adventures",
+		"highest": 30,
+		"lowest": 1900,
+		"diff": 1870
+	},
+	{
+		"name": "White Grizzly – Meadow Creek",
+		"highest": 660,
+		"lowest": 2500,
+		"diff": 1840
+	},
+	{
+		"name": "Mica Heli Guides – Mica Creek",
+		"highest": 1000,
+		"lowest": 2500,
+		"diff": 1500
+	},
+	{
+		"name": "Mike Wiegele – Blue River",
+		"highest": 1046,
+		"lowest": 3569,
+		"diff": 2523
+	},
+	{
+		"name": "Cariboos",
+		"highest": 1100,
+		"lowest": 3000,
+		"diff": 1900
+	},
+	{
+		"name": "Stellar Heliskiing",
+		"highest": 600,
+		"lowest": 3040,
+		"diff": 2440
+	},
+	{
+		"name": "Galena",
+		"highest": 1000,
+		"lowest": 3100,
+		"diff": 2100
+	},
+	{
+		"name": "Bella Coola",
+		"highest": 914,
+		"lowest": 2896,
+		"diff": 1982
+	},
+	{
+		"name": "Mustang Powder",
+		"highest": 700,
+		"lowest": 2440,
+		"diff": 1740
+	},
+	{
+		"name": "Eagle Pass Heliskiing",
+		"highest": 1500,
+		"lowest": 3205,
+		"diff": 1705
+	},
+	{
+		"name": "Great Northern Snow Cat – Trout Lake",
+		"highest": 880,
+		"lowest": 2450,
+		"diff": 1570
+	},
+	{
+		"name": "Monashee",
+		"highest": 580,
+		"lowest": 3140,
+		"diff": 2560
+	},
+	{
+		"name": "Tyax Heliskiing",
+		"highest": 1015,
+		"lowest": 2900,
+		"diff": 1885
+	},
+	{
+		"name": "Skeena Heliskiing",
+		"highest": 550,
+		"lowest": 2200,
+		"diff": 1650
+	},
+	{
+		"name": "Valdez Heli-Ski Guides",
+		"highest": 490,
+		"lowest": 3657,
+		"diff": 3167
+	},
+	{
+		"name": "Drumheller Valley Ski Hill",
+		"highest": 708,
+		"lowest": 823,
+		"diff": 115
+	},
+	{
+		"name": "North Cascade Heliskiing – Mazama",
+		"highest": 1500,
+		"lowest": 2700,
+		"diff": 1200
+	},
+	{
+		"name": "Valemount Glaciers (planned)",
+		"highest": 1160,
+		"lowest": 2530,
+		"diff": 1370
+	},
+	{
+		"name": "Purcell Heliskiing",
+		"highest": 1600,
+		"lowest": 3000,
+		"diff": 1400
+	},
+	{
+		"name": "Snow Water",
+		"highest": 1300,
+		"lowest": 2575,
+		"diff": 1275
+	},
+	{
+		"name": "Selkirk – Meadow Creek",
+		"highest": 1310,
+		"lowest": 2530,
+		"diff": 1220
+	},
+	{
+		"name": "Chatter Creek",
+		"highest": 1500,
+		"lowest": 2900,
+		"diff": 1400
+	},
+	{
+		"name": "Ruby Mountain",
+		"highest": 2285,
+		"lowest": 3350,
+		"diff": 1065
+	},
+	{
+		"name": "Fairfax Peak (planned) (indoor ski area)",
+		"highest": 50,
+		"lowest": 80,
+		"diff": 30
+	},
+	{
+		"name": "Rocking Horse Ranch",
+		"highest": 172,
+		"lowest": 214,
+		"diff": 42
+	},
+	{
+		"name": "Blomidon Cat Skiing",
+		"highest": 35,
+		"lowest": 650,
+		"diff": 615
+	},
+	{
+		"name": "Cascade Powder Guides",
+		"highest": 853,
+		"lowest": 1705,
+		"diff": 852
+	},
+	{
+		"name": "Retallack Alpine Adventures – New Denver",
+		"highest": 1640,
+		"lowest": 2350,
+		"diff": 710
+	},
+	{
+		"name": "Mt. Bailey",
+		"highest": 1700,
+		"lowest": 2600,
+		"diff": 900
+	},
+	{
+		"name": "Great Northern Powder Guides",
+		"highest": 1463,
+		"lowest": 2195,
+		"diff": 732
+	},
+	{
+		"name": "Cariboo – Mica Mountain",
+		"highest": 1315,
+		"lowest": 2250,
+		"diff": 935
+	},
+	{
+		"name": "Monashee Powder – Coldstream",
+		"highest": 1600,
+		"lowest": 2500,
+		"diff": 900
+	},
+	{
+		"name": "Bridal Veil Mountain Resort (planned)",
+		"highest": 815,
+		"lowest": 1712,
+		"diff": 897
+	},
+	{
+		"name": "Axis Freestyle Academy – Vaughan (dry slopes)",
+		"highest": 218,
+		"lowest": 223,
+		"diff": 5
+	},
+	{
+		"name": "Sand Master Park – Florence (sand ski area)",
+		"highest": 20,
+		"lowest": 40,
+		"diff": 20
+	},
+	{
+		"name": "Eagle Island Park",
+		"highest": 770,
+		"lowest": 781,
+		"diff": 11
+	},
+	{
+		"name": "Alpine Indoor – Mississauga (dry slopes)",
+		"highest": 164,
+		"lowest": 167,
+		"diff": 3
+	},
+	{
+		"name": "Mt. Chinguacousy – Brampton",
+		"highest": 218,
+		"lowest": 237,
+		"diff": 19
+	},
+	{
+		"name": "Mont Glen",
+		"highest": 320,
+		"lowest": 630,
+		"diff": 310
+	},
+	{
+		"name": "Cimarron Mountain Club",
+		"highest": 2990,
+		"lowest": 3465,
+		"diff": 475
+	},
+	{
+		"name": "WinterClub Indoor Ski &amp; Snowboard – Winter Park (dry slopes)",
+		"highest": 30,
+		"lowest": 34,
+		"diff": 4
+	},
+	{
+		"name": "Maple Valley",
+		"highest": 112,
+		"lowest": 325,
+		"diff": 213
+	},
+	{
+		"name": "Snöbahn – Centennial",
+		"highest": 1705,
+		"lowest": 1710,
+		"diff": 5
+	},
+	{
+		"name": "Inside Ski Training Center – Leesburg (dry slopes)",
+		"highest": 98,
+		"lowest": 102,
+		"diff": 4
+	}
+]
