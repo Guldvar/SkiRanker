@@ -2,8 +2,6 @@
 const BASE_URL = 'https://www.skiresort.info/ski-resorts/';
 const redirectAllowed = process.argv.includes('--redirect');
 const slow = process.argv.includes('--slow');
-const { rejects } = require('assert');
-const { time } = require('console');
 const fs = require('fs'), fetch = require('node-fetch'), jsdom = require("jsdom");
 
 const init = async (url) =>
