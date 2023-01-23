@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Ski Ranker</title>
+        <link rel="stylesheet" href="main.css">
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+            integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
+        <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+            integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+    </head>
+
+    <body>
+        <h1 class="logo"><a href = "/">SkiRanker</a></h1>
+        <p class="subtitle">Select a continent</p>
+        <menu class="continent-picker">
+            <li><a href="ranker?continent=africa">Africa</a></li>
+            <li><a href="ranker?continent=asia">Asia</a></li>
+            <li><a href="ranker?continent=europe">Europe</a></li>
+            <li><a href="ranker?continent=north-america">N. America</a></li>
+            <li><a href="ranker?continent=south-america">S. America</a></li>
+            <li><a href="ranker?continent=australia-and-oceania">Oceania</a></li>
+        </menu>
+        <p class="smaller">or</p>
+        <p class="subtitle">Select a starting location</p>
+        <div id = "map" class = "map"></div>
+        <script src="index.js"></script>
+    </body>
+
+</html>

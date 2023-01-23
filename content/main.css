@@ -1,0 +1,195 @@
+*
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --menu-back-color: #4458af;
+    --menu-back-color-hover: #5269d1;
+}
+
+body
+{
+    margin: 0;
+}
+
+h1.logo
+{
+    font-size: 12em;
+    text-align: center;
+    user-select: none;
+    margin-block-start: 0.3em;
+    margin-block-end: 0.3em;
+    margin: auto;
+}
+
+h2.logo
+{
+    user-select: none;
+    margin: 0;
+    margin-left: 2rem;
+    font-size: 4em;
+}
+
+.logo a
+{
+    color: black;
+    text-decoration: none;
+}
+
+.header
+{
+    border-bottom: 1px solid black;
+    width: 100%;
+    margin-bottom: 1.3rem;
+}
+
+.subtitle
+{
+    text-align: center;
+    font-size: 2em;
+}
+
+.smaller
+{
+    text-align: center;
+    font-size: 1.3em;
+}
+
+.continent-picker
+{
+    list-style: none;
+    display: grid;
+    grid-auto-flow: column;
+    margin: auto;
+    width: 70rem;
+    border-radius: 2rem;
+}
+
+.continent-picker a
+{
+    background-color: var(--menu-back-color);
+    padding: 1rem;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: 500;
+    border-left: 1px solid white;
+    text-decoration: none;
+    color: white;
+    display: list-item;
+}
+
+.continent-picker>li:first-child a
+{
+    border-radius: 2rem 0 0 2rem;
+    border-left: 0;
+}
+
+.continent-picker>li:last-child a
+{
+    border-radius: 0 2rem 2rem 0;
+}
+
+.continent-picker a:hover,
+.continent-picker a.selected
+{
+    background-color: var(--menu-back-color-hover);
+}
+
+.map
+{
+    height: 30rem;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 10rem;
+    text-align: center;
+    border: 1px solid black;
+}
+
+@keyframes fadein
+{
+    from
+    {
+        opacity: 0;
+    }
+
+    to
+    {
+        opacity: 1;
+    }
+}
+
+.coord-input-container
+{
+    margin: auto;
+    margin-top: 2rem;
+    width: 50rem;
+    background-color: var(--menu-back-color);
+    color: white;
+    font-size: 2em;
+    text-align: center;
+    display: grid;
+    border-radius: 2rem;
+    grid-auto-flow: column;
+    gap: 0;
+    animation: fadein 0.3s;
+}
+
+.coord-input-container label
+{
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.coord-input
+{
+    font-size: 1em;
+    width: 90%;
+    background-color: var(--menu-back-color);
+    color: white;
+    border: none;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.coord-input:focus-visible
+{
+    outline: none;
+}
+
+.coord-input::placeholder
+{
+    color: #dbdbdb;
+    opacity: 1;
+}
+
+.img-wrapper
+{
+    height: 1em;
+    width: 3em;
+}
+
+.img-wrapper img
+{
+    height: inherit;
+    width: inherit;
+    margin: auto;
+    cursor: pointer;
+}
+
+.find-button
+{
+    margin: auto;
+    margin-top: 2rem;
+    width: 20rem;
+    display: block;
+    background-color: var(--menu-back-color);
+    border: none;
+    border-radius: 2rem;
+    font-size: 2em;
+    color: white;
+    cursor: pointer;
+    animation: fadein 0.3s 0.3s both;
+}
+
+.find-button:hover
+{
+    background-color: var(--menu-back-color-hover);
+}
