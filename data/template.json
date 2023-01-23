@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Resort name",
+        "highest": "Highest elevation",
+        "lowest": "Lowest elevation",
+        "diff": "Height difference"
+    }
+]

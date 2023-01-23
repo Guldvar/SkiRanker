@@ -2,20 +2,99 @@
 const BASE_URL = 'https://www.skiresort.info/ski-resorts/';
 const redirectAllowed = process.argv.includes('--redirect');
 const slow = process.argv.includes('--slow');
-const fs = require('fs'), fetch = require('node-fetch'), jsdom = require("jsdom");
+const json = process.argv.includes('--json');
+const fs = require('fs'), fetch = require('node-fetch'), jsdom = require("jsdom"), sql = require('sqlite3').verbose();
 
 const init = async (url) =>
 {
-    const page = await fetchPage(url).catch(handleError);
+    console.log("Started", url);
+    const firstPage = await fetchPage(url).catch(handleError);
     console.log("First page retrieved, starting scrape...");
     let pageCount = 1;
-    if (page.window.document.querySelector('#pagebrowser1')) 
+    if (firstPage.window.document.querySelector('#pagebrowser1')) 
     {
-        pageCount = page.window.document.querySelector('#pagebrowser1 li:last-child>a').href.split('page/')[1].split('/')[0];
+        pageCount = firstPage.window.document.querySelector('#pagebrowser1 li:last-child>a').href.split('page/')[1].split('/')[0];
         //<ul id=#pagebrowser1>...<li><a href = 'https://www.skiresort.info/ski-resorts/europe/page/LASTPAGE/'></a></li></ul>
     }
     console.log(pageCount, "pages");
-    const resortData = getPageResorts(page);
+    const resortData = getPageResorts(firstPage);
+    resortData.push(...(await getNPages(url, pageCount)));
+
+    const db = json ? undefined : await initAndGetDataBase(url);
+    writeToFile(resortData, url, db, () =>
+    {
+        console.log(`Completed scrape for '${url}'`);
+    });
+};
+
+const initAndGetDataBase = async (url) =>
+{
+    const db = new sql.Database(`./data/worldwide.db`);
+    const row = await db.asyncGet('SELECT * FROM sqlite_master WHERE type="table" AND name=?', [url]).catch(handleError);
+    if (row)
+    {
+        await db.asyncRun(`DROP TABLE ${url}`).catch(handleError);
+    }
+    await db.asyncRun(`CREATE TABLE ${url} (rowid INTEGER PRIMARY KEY, name TEXT, highest INTEGER, lowest INTEGER, diff INTEGER)`)
+        .catch(handleError);
+    return db;
+};
+
+sql.Database.prototype.asyncRun = function (query, params)
+{
+    const db = this;
+    return new Promise((resolve, reject) =>
+    {
+        const cb = function (err)
+        {
+            if (err)
+            {
+                reject(err);
+            }
+            resolve(this);
+        };
+        db.run(query, params, cb);
+    });
+};
+
+sql.Database.prototype.asyncGet = function (query, params)
+{
+    const db = this;
+    return new Promise((resolve, reject) =>
+    {
+        const cb = function (err, res)
+        {
+            if (err) 
+            {
+                reject(err);
+            }
+            resolve(res);
+        };
+        db.get(query, params, cb);
+    });
+};
+
+sql.Database.prototype.asyncAll = function (query, params)
+{
+    const db = this;
+    return new Promise((resolve, reject) =>
+    {
+        const cb = function (err, res)
+        {
+            if (err) 
+            {
+                reject(err);
+            }
+            resolve(res);
+        };
+        db.all(query, params, cb);
+    });
+};
+
+
+const getNPages = async (url, pageCount) =>
+{
+    const resortData = [];
     for (let i = 2; i <= pageCount; i++)
     {
         console.log("Fetching page", i);
@@ -30,17 +109,34 @@ const init = async (url) =>
             continue;
         }
     }
-    const fileString = JSON.stringify(resortData, null, "\t");
+    return resortData;
+};
 
-    fs.writeFile(`./data/${url}.json`, fileString, (res) =>
+const writeToFile = async (resortData, url, db, cb) =>
+{
+    console.log("Writing...");
+    if (db)
     {
-        console.log(`Completed scrape for '${url}'`);
-    });
+        const promises = [];
+        for (const resort of resortData)
+        {
+            promises.push(db.asyncRun(`INSERT INTO ${url} (name, highest, lowest, diff) VALUES (?, ?, ?, ?)`,
+                [resort.name, resort.highest, resort.lowest, resort.diff]));
+        }
+        await Promise.all(promises);
+        cb();
+    }
+    else
+    {
+        const fileString = JSON.stringify(resortData, null, "\t");
+
+        fs.writeFile(`./data/${url}.json`, fileString, cb);
+    }
 };
 
 const handleError = (error) =>
 {
-    console.error(error);
+    console.trace(error);
     process.exit(1);
 };
 
@@ -69,6 +165,23 @@ const getPageResorts = (page) =>
             lowest: Number(heightInfoRaw.children[2].innerHTML.split(' m')[0]),
             diff: Number(heightInfoRaw.children[0].innerHTML.split(' m')[0])
         };
+        let incorrectFormat = undefined;
+        for (const key in heightInfo)
+        {
+            const value = heightInfo[key];
+            if (value === null
+                || value === undefined
+                || (typeof value === 'number' && isNaN(value)))
+            {
+                incorrectFormat = key;
+                break;
+            }
+        }
+        if (incorrectFormat)
+        {
+            console.log("Found incorrectly formatted information", "'" + incorrectFormat + "'", "on", name);
+            continue;
+        }
         pageResorts.push(heightInfo);
     }
     return pageResorts;
@@ -87,13 +200,16 @@ const fetchPage = (url) =>
     return new Promise(async (resolve, reject) =>
     {
         const rawPage = await fetch(BASE_URL + url);
-        if (!(rawPage.status == 200 || rawPage.status == 301 && redirectAllowed) || !(rawPage.url.includes(url) || redirectAllowed) || !rawPage.url.includes('ski-resorts')) 
+        if (!(rawPage.status == 200
+            || rawPage.status == 301 && redirectAllowed)
+            || !(rawPage.url.includes(url) || redirectAllowed)
+            || !rawPage.url.includes('ski-resorts')) 
         {
             if (rawPage.status == 429)
             {
                 reject("Too many requests, try again later with --slow");
             }
-            if (rawPage.status == 404 || !rawPage.url.includes('ski-resorts'))
+            if (rawPage.status == 404 || !rawPage.url.includes(BASE_URL))
             {
                 reject(`Invalid address: ${url}`);
             }
