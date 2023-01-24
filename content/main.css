@@ -1,6 +1,10 @@
 *
 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+:root
+{
     --menu-back-color: #4458af;
     --menu-back-color-hover: #5269d1;
 }
@@ -8,6 +12,7 @@
 body
 {
     margin: 0;
+    margin-bottom: 10rem;
 }
 
 h1.logo
@@ -53,7 +58,7 @@ h2.logo
     font-size: 1.3em;
 }
 
-.continent-picker
+.region-picker
 {
     list-style: none;
     display: grid;
@@ -63,7 +68,7 @@ h2.logo
     border-radius: 2rem;
 }
 
-.continent-picker a
+.region-picker a
 {
     background-color: var(--menu-back-color);
     padding: 1rem;
@@ -76,19 +81,19 @@ h2.logo
     display: list-item;
 }
 
-.continent-picker>li:first-child a
+.region-picker>li:first-child a
 {
     border-radius: 2rem 0 0 2rem;
     border-left: 0;
 }
 
-.continent-picker>li:last-child a
+.region-picker>li:last-child a
 {
     border-radius: 0 2rem 2rem 0;
 }
 
-.continent-picker a:hover,
-.continent-picker a.selected
+.region-picker a:hover,
+.region-picker a.selected
 {
     background-color: var(--menu-back-color-hover);
 }
@@ -98,9 +103,21 @@ h2.logo
     height: 30rem;
     width: 80%;
     margin: auto;
-    margin-bottom: 10rem;
     text-align: center;
     border: 1px solid black;
+}
+
+.small-map
+{
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+    width: 30rem;
+    height: 20rem;
+    top: 4rem;
+    right: 0rem;
+    position: absolute;
+    z-index: 100;
 }
 
 @keyframes fadein
@@ -116,11 +133,11 @@ h2.logo
     }
 }
 
-.coord-input-container
+.input-container
 {
     margin: auto;
     margin-top: 2rem;
-    width: 50rem;
+    width: fit-content;
     background-color: var(--menu-back-color);
     color: white;
     font-size: 2em;
@@ -132,7 +149,7 @@ h2.logo
     animation: fadein 0.3s;
 }
 
-.coord-input-container label
+.input-container label
 {
     padding-left: 1em;
     padding-right: 1em;
@@ -164,6 +181,7 @@ h2.logo
 {
     height: 1em;
     width: 3em;
+    position: relative
 }
 
 .img-wrapper img
@@ -177,19 +195,50 @@ h2.logo
 .find-button
 {
     margin: auto;
-    margin-top: 2rem;
     width: 20rem;
     display: block;
     background-color: var(--menu-back-color);
     border: none;
     border-radius: 2rem;
-    font-size: 2em;
+    font-size: 1em;
     color: white;
     cursor: pointer;
     animation: fadein 0.3s 0.3s both;
+    height: fit-content;
 }
 
 .find-button:hover
 {
     background-color: var(--menu-back-color-hover);
+}
+
+.select-input
+{
+    font-size: 1em;
+    background-color: var(--menu-back-color);
+    color: white;
+    border: none;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.resort-table
+{
+    margin: auto;
+    margin-top: 5rem;
+}
+
+.resort-table td, .resort-table, th
+{
+    border: 1px var(--menu-back-color) solid;
+}
+
+.resort-table td
+{
+    text-align: center;
+}
+
+.resort-table td:first-child
+{
+    text-align: left;
 }

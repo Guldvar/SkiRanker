@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>SkiRanker</title>
+        <link rel="stylesheet" href="main.css">
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+            integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
+        <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+            integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+    </head>
+
+    <body>
+        <header class="header">
+            <h2 class="logo"><a href="/">SkiRanker</a></h2>
+        </header>
+        <menu class="region-picker">
+            <li><a id="africa" href="ranker?region=africa">Africa</a></li>
+            <li><a id="asia" href="ranker?region=asia">Asia</a></li>
+            <li><a id="europe" href="ranker?region=europe">Europe</a></li>
+            <li><a id="north-america" href="ranker?region=north-america">N. America</a></li>
+            <li><a id="south-america" href="ranker?region=south-america">S. America</a></li>
+            <li><a id="australia-and-oceania" href="ranker?region=australia-and-oceania">Oceania</a></li>
+        </menu>
+        <div class="input-container" style="display: none;" id="geo-picker">
+            <label>Location:</label>
+            <input class="coord-input" placeholder="Latitude" type="text" id="lat" pattern="^\d*$">
+            °N
+            <input class="coord-input" placeholder="Longitude" type="text" id="lng">
+            °E
+            <div class="img-wrapper">
+                <img id="map-open" src="pin-48.svg" title="Select on map">
+                <div id="map" class="small-map" style="display: none;"></div>
+            </div>
+        </div>
+        <div class="input-container" style="display: none;" id="options">
+            <label>Sort by:</label>
+            <select class="select-input" id="sort-input">
+                <option value="diff">Fall height</option>
+                <option value="highest">Highest elevation</option>
+                <option value="lowest">Lowest elevation</option>
+            </select>
+            <label>Order:</label>
+            <select class="select-input" id="order-input">
+                <option value="DESC">Descending</option>
+                <option value="ASC">Ascending</option>
+            </select>
+            <button class="find-button" id="find-button">Find resorts →</button>
+        </div>
+        <script src="ranker.js"></script>
+    </body>
+
+</html>

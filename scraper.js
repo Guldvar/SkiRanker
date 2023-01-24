@@ -1,11 +1,12 @@
 "use strict";
 const BASE_URL = 'https://www.skiresort.info/ski-resorts/';
+const REGIONS = ['africa', 'asia', 'europe', 'north-america', 'south-america', 'australia-and-oceania'];
 const redirectAllowed = process.argv.includes('--redirect');
 const slow = process.argv.includes('--slow');
 const json = process.argv.includes('--json');
 const fs = require('fs'), fetch = require('node-fetch'), jsdom = require("jsdom"), sql = require('sqlite3').verbose();
 
-const init = async (url) =>
+const scrapeRegion = async (url) =>
 {
     console.log("Started", url);
     const firstPage = await fetchPage(url).catch(handleError);
@@ -21,21 +22,26 @@ const init = async (url) =>
     resortData.push(...(await getNPages(url, pageCount)));
 
     const db = json ? undefined : await initAndGetDataBase(url);
-    writeToFile(resortData, url, db, () =>
+    return new Promise((resolve) =>
     {
-        console.log(`Completed scrape for '${url}'`);
+        writeToFile(resortData, url, db, () =>
+        {
+            console.log(`Completed scrape for '${url}'`);
+            resolve();
+        });
     });
 };
 
 const initAndGetDataBase = async (url) =>
 {
+    const rowName = url.replaceAll("-", "");
     const db = new sql.Database(`./data/worldwide.db`);
-    const row = await db.asyncGet('SELECT * FROM sqlite_master WHERE type="table" AND name=?', [url]).catch(handleError);
+    const row = await db.asyncGet('SELECT * FROM sqlite_master WHERE type="table" AND name=?', [rowName]).catch(handleError);
     if (row)
     {
-        await db.asyncRun(`DROP TABLE ${url}`).catch(handleError);
+        await db.asyncRun(`DROP TABLE ${rowName}`).catch(handleError);
     }
-    await db.asyncRun(`CREATE TABLE ${url} (rowid INTEGER PRIMARY KEY, name TEXT, highest INTEGER, lowest INTEGER, diff INTEGER)`)
+    await db.asyncRun(`CREATE TABLE ${rowName} (rowid INTEGER PRIMARY KEY, name TEXT, highest INTEGER, lowest INTEGER, diff INTEGER)`)
         .catch(handleError);
     return db;
 };
@@ -117,10 +123,11 @@ const writeToFile = async (resortData, url, db, cb) =>
     console.log("Writing...");
     if (db)
     {
+        const rowName = url.replaceAll('-', "");
         const promises = [];
         for (const resort of resortData)
         {
-            promises.push(db.asyncRun(`INSERT INTO ${url} (name, highest, lowest, diff) VALUES (?, ?, ?, ?)`,
+            promises.push(db.asyncRun(`INSERT INTO ${rowName} (name, highest, lowest, diff) VALUES (?, ?, ?, ?)`,
                 [resort.name, resort.highest, resort.lowest, resort.diff]));
         }
         await Promise.all(promises);
@@ -151,7 +158,7 @@ const getPageResorts = (page) =>
         {
             title.querySelector('span').remove();
         }
-        const name = resort.querySelector('a.h3').innerHTML.trim();
+        const name = resort.querySelector('a.h3').innerHTML.trim().replaceAll('&amp;', '&');
         const heightInfoRaw = resort.querySelector('.info-table tr:nth-child(2) td:last-child');
         if (!heightInfoRaw || heightInfoRaw.children.length < 2) 
         {
@@ -161,8 +168,8 @@ const getPageResorts = (page) =>
         const heightInfo =
         {
             name: name,
-            highest: Number(heightInfoRaw.children[1].innerHTML.split(' m')[0]),
-            lowest: Number(heightInfoRaw.children[2].innerHTML.split(' m')[0]),
+            highest: Number(heightInfoRaw.children[2].innerHTML.split(' m')[0]),
+            lowest: Number(heightInfoRaw.children[1].innerHTML.split(' m')[0]),
             diff: Number(heightInfoRaw.children[0].innerHTML.split(' m')[0])
         };
         let incorrectFormat = undefined;
@@ -236,7 +243,26 @@ const getURLFromArgs = () =>
             return arg.split('=')[1];
         }
     }
-    throw ('Missing argument: address');
+    return undefined;
 };
 
-init(getURLFromArgs());
+
+
+const initScrape = async () =>
+{
+    const url = getURLFromArgs();
+    if (url)
+    {
+        scrapeRegion(url);
+    }
+    else
+    {
+        console.log("Scraping all regions...");
+        for (const region of REGIONS)
+        {
+            await scrapeRegion(region);
+        }
+        console.log("Finished!");
+    }
+};
+initScrape();
