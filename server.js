@@ -208,7 +208,7 @@ const generateJSON = async (params) =>
 				{
 					const driveTimeSecs = getRoute.resourceSets[0].resources[0].travelDuration;
 					resort.driveTime = `${Math.round(driveTimeSecs / 3600)}h`;
-					resort.fallHeight = 2 * parseFloat((resort.diff / (driveTimeSecs / 3600)).toFixed(2));
+					resort.fallHeight = parseFloat((resort.diff / (2 * driveTimeSecs / 3600)).toFixed(2));
 				}
 				resolve();
 			}));
